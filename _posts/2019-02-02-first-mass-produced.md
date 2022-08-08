@@ -1,27 +1,39 @@
 ---
 layout: post
-title:  "The first mass-produced book to deviate from a rectilinear format"
+title: Los supermercados son el problema.
 author: sal
-categories: [ tutorial ]
-image: assets/images/17.jpg
-tags: [featured]
+categories:
+- Supermercados
+- Obesidad
+- Marketing
+- Salud
+image: "/assets/images/SUPER.jpg"
+tags:
+- featured
+
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+_Una vez más en la_ [_Ventana de Overton_](https://es.wikipedia.org/wiki/Ventana_de_Overton) _solo hay lugar para los “Trending topics” y olvidamos las epidemias que viven con nosotros todos los días. ¿Qué responsabilidad tienen los supermercados en nuestra alimentación diaria?_
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
+Aunque muchos supermercados elogian la importancia de abordar la obesidad ofreciendo una gran variedad de frutas y verduras, los supermercados también almacenan grandes cantidades de alimentos bajos en nutrientes que contribuyen al aumento de peso innecesario.
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+En una [_investigación realizada en la década de 1970_](https://www.jec.senate.gov/reports/95th%20Congress/Prices%20and%20Profits%20of%20Leading%20Retail%20Food%20Chains%201970-74%20(870).pdf) sugirió que aumentar el espacio en los estantes y mejorar la colocación de los productos eran factores clave para aumentar sus ventas. [Un estudio reciente](https://www.sciencedirect.com/science/article/pii/S0277953614001361) investigó la estrategia promocional de colocar diferentes bebidas frías, en las heladeras al final de los pasillos y descubrió que dicha colocación aumentó las ventas de las gaseosas en un 51.7%, un tamaño de efecto equivalente a una reducción de precios del 22%.
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+El hallazgo de que los factores de la tienda eran más importantes que los factores individuales para influir en lo que la gente compraba, condujo a una aceleración dramática en el uso de “contratos de posicionamiento” a principios de la década de 1980, una práctica mediante la cual los fabricantes pagaban a los supermercados para exhibir sus productos en lugares específicos de la tienda. Sin embargo, la principal preocupación planteada sobre estas prácticas no era cómo manipulaban a los consumidores o influían en la dieta de ellos, sino si esas prácticas constituían una competencia desleal para los pequeños fabricantes que no podían pagar el espacio. Entre 1980 y 2000, la industria alimentaria aprendió a vender grandes cantidades de alimentos procesados de ​​bajos nutrientes al manipular su ubicación y promoción. Este es probablemente uno de los factores que contribuyeron a duplicar las tasas de obesidad en todo el mundo durante ese mismo período.
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+![](/assets/images/JAMA.gif)
 
-To deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+Fuente:[ JAMA Internal Medicine](https://jamanetwork.com/journals/jamainternalmedicine)
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
+Para capitalizar el aumento de las ventas colocaron productos en las lineas de cajas, en estantes al final del pasillo y stands en el medio del paso. Los supermercados se han expandido en las últimas décadas para proporcionar más espacio en los estantes, especialmente más del valioso final de pasillo con sus exhibiciones. Hoy, se estima que el 30% de todas las ventas de supermercados se pueden atribuir a las exhibiciones al final del pasillo. Los supermercados han colocado más alimentos que aumentan el riesgo de enfermedades crónicas en estos lugares, y no debería sorprendernos que más personas estén adquiriendo enfermedades crónicas.
 
-> The claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+![](/assets/images/GONDOLA.jpg)
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+Incluso las personas que quieren resistirse a agarrar estos artículos bajos en nutrientes a veces no lo hacen porque sufren de [fatiga de decisión](https://damiensoitout.com/como-prevenir-la-fatiga-de-decision/), lo más importante al final de un día de compras. Después de tomar tantas decisiones sobre qué comprar y qué no, la capacidad cognitiva de las personas se ve abrumada, y las decisiones posteriores a menudo se toman de manera impulsiva y emocional sin tener en cuenta las consecuencias a largo plazo. Las personas con bajos ingresos son particularmente vulnerables, ya que sus decisiones son a menudo más exigentes. Los compradores con menos recursos económicos tienen que renunciar a más artículos que de otro modo les gustaría comprar. La fatiga de las decisiones ocurre de una manera que las personas a menudo no reconocen. Generalmente operamos bajo la ilusión de que cada elección es deliberada cuando, de hecho, nuestras decisiones son más a menudo automáticas y reflexivas.
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+La mayoría de las personas no reconoce los riesgos a los que se enfrentan con las estrategias de marketing que promueven la fatiga de decisión y la compra impulsiva, pero las consecuencias son graves: enfermedades cardíacas, diabetes y cáncer, muertes prevenibles de manera temprana para una parte importante de la población. Si todos tuvieran la capacidad de reducir sus riesgos, lo harían. Quienes no pueden defenderse de los riesgos ambientales necesitan apoyo social. Por lo tanto, corresponde a la sociedad hacer algo para mitigar o regular los factores que contribuyen a la epidemia actual de sobrepeso y obesidad que afecta a dos tercios de los adultos y un tercio de los niños.
+
+Una solución es desarrollar estándares que identifiquen qué productos no deben mostrarse en estos lugares destacados. Sería un buen comienzo mover dulces, papas fritas, refrescos, galletitas y otros alimentos chatarra lejos de estantes especiales, lineas de caja y máquinas expendedoras de fácil acceso. La reubicación de alimentos que aumentan el riesgo de obesidad y enfermedades crónicas a lugares menos visibles aún permitiría la compra a quienes desean obtener dichos alimentos, pero la decisión de comprar sería deliberada en lugar de impulsiva.
+
+La aplicación de nuevas regulaciones sobre cómo se comercializan los alimentos a los consumidores seguramente causará controversia entre los supermercados, quienes sin duda reaccionarán con gritos del “Estado Paternalista”. Pero no hay indicios de que la epidemia de obesidad disminuya por sí sola. Se necesitan pasos audaces.
+
+Mientras la obesidad se vea cómo una cuestión de responsabilidad personal y no como consecuencia de vivir en un ambiente obesogénico que abruma y socava a las personas, la epidemia de obesidad persistirá. La mayoría de las personas carecen de la capacidad de ignorar constantemente las sofisticadas estrategias de marketing que encuentran todos los días. Mitigar el riesgo de consumo excesivo requiere cambiar el entorno para que las opciones más fáciles y convenientes no sean siempre las peores.
