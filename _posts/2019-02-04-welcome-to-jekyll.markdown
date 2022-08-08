@@ -3,8 +3,8 @@ layout: post
 title: Disparidades Morales Hirientes
 categories:
 - 'Desigualdad '
-- Liberad
 - Oportunidades
+- Libertad
 image: "/assets/images/desigualdad.jpg"
 author: sal
 
