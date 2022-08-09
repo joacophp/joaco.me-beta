@@ -33,9 +33,9 @@ Aún superando esta interminable lista de desigualdades que a Mili le tocaron po
 
 Si la libertad es la capacidad que tenemos las personas de elegir, hasta donde vimos Mili no solo no fue libre, sino que fue una rehén permanente de las circunstancias que _“le tocaron”_ y ese “le tocaron” fue la hipocresía de una sociedad consumista, individualista e indiferente a una niña que tomaba agua del piso en una plaza o cartoñaba con su hermano mayor en vez de estar en un colegio educándose.
 
-Milagros será parte del 83% de la sociedad mayor de 19 años que nunca tendrá una tarjeta de crédito ([Informe de Estructura BCRA](http://www.bcra.gob.ar/SistemasFinancierosYdePagos/Entidades_financieras_informacion_estructura.asp?bco=AAA10&tipo=2&Tit=2)), que no podrá comprarse la heladerita en cuotas “ porque total las cuotas las paga la inflación” y sus gastos diarios, el precio de los productos que compra al contado, el precio de los créditos que tomará con un financista serán **_siempre_** _infinitamente mayores_.
+Milagros será parte del 83% de la sociedad mayor de 19 años que nunca tendrá una tarjeta de crédito ([Informe de Estructura BCRA](http://www.bcra.gob.ar/SistemasFinancierosYdePagos/Entidades_financieras_informacion_estructura.asp?bco=AAA10&tipo=2&Tit=2)), que no podrá comprarse la heladerita en cuotas “ porque total las cuotas las paga la inflación” y sus gastos diarios, el precio de los productos que compra al contado, el costo de los créditos que tomará con un financista serán **_siempre_** _infinitamente mayores_.
 
-Y lo mas duro, frio y estremecedor: Milagros tendrá una esperanza de vida 8 años menor que una mujer nacida en la capital federal ([Ministerio de Salud Publica Misiones](https://salud.misiones.gob.ar/wp-content/uploads/2020/03/Panel-Misiones-2018-Parte-I.pdf)). El doble de su vida (el día que tomaron la foto) no lo va a vivir, por el simple hecho de ser mujer, de haber nacido donde nació, por ser miembro de una comunidad indígena o por ser pobre, no importa, 8 años que tiene menos para hacer lo que quiera con su vida.
+Y lo mas duro, frio y estremecedor: Milagros tendrá una esperanza de vida 8 años menor que una mujer nacida en la capital federal ([Ministerio de Salud Publica Misiones](https://salud.misiones.gob.ar/wp-content/uploads/2020/03/Panel-Misiones-2018-Parte-I.pdf)). El doble de su vida (el día que tomaron la foto) no lo va a vivir, por el simple hecho de ser mujer, de haber nacido donde nació, por ser miembro de una comunidad indígena o por ser pobre, no importa, 8 años que tendrá menos para hacer con su vida lo que quiera.
 
 Si la realidad de Milagros te resulta lejana, casi como si habláramos de una niña nacida en Sudán del Sur, podes observar estas dos imágenes:
 
@@ -43,7 +43,7 @@ Si la realidad de Milagros te resulta lejana, casi como si habláramos de una ni
 
 De un lado dos niños de la misma edad que Mili jugando entre la basura en la Villa 31 de Retiro y en la otra imagen la avenida Alvear de Buenos Aires (Son 600 metros de diferencia). Todos los datos que hablamos sobre Mili son prácticamente similares en los niños nacidos en barrios populares de AMBA.
 
-Es por todo esto lamentamos el enfoque que se le da hoy a las desigualdad como temática, porque si bien es cierto que los números son abrumadores:
+Es por todo esto que lamentamos el enfoque que se le da hoy a las desigualdad como temática, porque si bien es cierto que los números son abrumadores:
 
 _“El 10% de la población mundial vive con el 85% de las riquezas generadas y un 50% vive únicamente con el 2%” (_[_Banco Mundial_](https://www.bancomundial.org/es/news/press-release/2018/10/17/nearly-half-the-world-lives-on-less-than-550-a-day)_)_
 
