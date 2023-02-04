@@ -144,21 +144,21 @@ _El nivel de actividad emprendedora_: Empezando por lo primero, es decir, la def
 
 Pues bien, los datos obtenidos por el GEM 2000, en julio-agosto del año 2000, son los que aparecen en el cuadro nº. 1 donde figuran, expresados en porcentaje de la población entre 18 y 64 años, los resultados medios de las encuestas realizadas en cada país, ordenados de forma que expresen su actividad emprendedora comparada con la de los restantes países de la muestra; muestra que comprende 21 países que, si bien, difieren en muchos aspectos, la mayoría de ellos encaran el reto de fomentar la actividad emprendedora, en orden, a promover el crecimiento económico del país. Como se ve, Brasil ostenta el mayor nivel del índice, 16%, seguido por Corea del Sur, 14%, y Estados Unidos, 13%. Irlanda y Japón ocupan los últimos lugares con porcentajes entre el 1 y el 2 por ciento. La mayoría de los países europeos están en la zona comprendida entre el 2 y el 6 por ciento, con la excepción de Noruega que alcanza el 8%.
 
-![](https://lh4.googleusercontent.com/sxn0J5CEDiqsGNVZANrit0BEkxtGF8C0Rwt2NK_wKT3dK8JkTvisIx2Y1u-pwB2kFDeDfGf07O_ZyV3f64Y17RFtrDwErkQn1vw0M2czjNRtc_cRvweGXJesEOOEeIJZIUbRdQCKYoimS2iMg8hhQw =475x307)
+![](/assets/images/autonomosxpais.png)
 
 Sin embargo, lo que más impresiona es como países en donde las necesidades sociales y económicas son mayores, países en donde abunda la pobreza no se quedan atrás, son estos países en donde se registra mayor número de emprendedores y los cuales están reduciendo poco a poco su pobreza.
 
 A continuación se muestra un gráfico con estudios realizados por el banco y los economistas Bourguingnon y Morrison en donde queda retratado la disminución global de la pobreza desde 1820. No es casualidad que los periodos en donde más se redujo la pobreza extrema están acompañados de un proceso de globalización en donde el mundo entero está conectado en tiempo real.
 
-![](https://lh4.googleusercontent.com/HTdYDR8gilUBBoYB9PBiuQ79oO8g4tazlWUSWaktS0gdTFR_M_guUDrsAprosp3_Y_tnnejBLXCz8Zm7aXauQlH3qeKlCC2SOe1oHQH3xmuuNDSge7q6joT91wA0Zjk2FgdbdmUgx-pkk74O4tO9ag =574x334)
+![](/assets/images/pobreza-1.png)
 
-![](https://lh6.googleusercontent.com/M2oNJZF1j-_IO7PxAKAK62MqAhXZ2VoE5FFuKzQ8_Z8yLK0WBUIrz1Kvx70U0I6TR6vX2VO0kY3ribVLh8PtdoSCCkh7v-L2xLwIlWvGnkGOEBQvszl0QEp0j4SDLkyJGT3vjLwY83icnTWO-tNRSg =462x261)
+![](/assets/images/africa.png)
 
 Global Entrepreneurship Monitor realizó un estudio en 2014 en donde buscaba descifrar el estado del emprendimiento mundial y se topó con la sorpresa que países africanos encabezaban esta revolución.
 
 "El panorama empresarial en África subsahariana es absolutamente excelente", dice Mike Herrington, director ejecutivo de Global Entrepreneurship Monitor (GEM) y profesor de la Universidad de Ciudad del Cabo en Sudáfrica. "Está en aumento porque África, por fin, ha estado emergiendo y las economías están en auge: varios países están comenzando a aumentar realmente la actividad empresarial y pasar a la iniciativa empresarial, en lugar de la necesidad de emprendimiento", agrega. "Las oportunidades abundan y está surgiendo un espíritu positivo entre la población de estos países".
 
-**_![](https://lh4.googleusercontent.com/HBDrvxgX0P4spWStb2Vk22IDE2ElPmxTMtJPeFmhl8X03Dyom21dLfZEZJo-ackNZauEOFJICQHbOA_kwYnb64PrEPl2V1dJ5-f8ikLWIBp79USVH312e6uwYjPaLKVDEQEB7HeqdDgadwi3tDJddQ =348x355)_**
+![](/assets/images/empresas.png)
 
 También otra cosa que llama notablemente la atención es como en los países que pasan por estas crisis económicas en el último siglo también son la oportunidad de empezar un nuevo camino. En griego la palabra crisis hace referencia a cambio, justamente porque son momentos transitorios no definitivos en donde se pasa de un estado a otro. Hace poco se reveló que España uno de los países europeos que sufrió una fuerte crisis desde 2008, ha generado en los últimos 5 años 164.100 nuevos trabajos autónomos que lo posiciona en uno de los países con mayor crecimiento del trabajo autónomo en europa.
 
@@ -172,15 +172,13 @@ _El período de recesión y crisis, cuyo comienzo puede situarse en 2010, vio en
 
 El siguiente cuadro expresa la jornada laboral de un trabajador en Reino Unido entre los años 1785 y el año 2000
 
-![](https://lh4.googleusercontent.com/WmR16k2E2C7khiiJNNJHGSJnJk8_7O-hYEteg9JtmbmE_YYLVgVtglAVuByLx5LFpAN6kw84fdEOwRUcnuA3G2y6PEkuqQKb-9cXcFpHEIKa9TMMayGUIbPWtVoM8nBeC4CX-OGnYYS7AXI75fj1oQ =602x212)
+![](/assets/images/jornadalaboral.png)
 
 Si bien no son las fechas involucradas en la hipótesis sin duda nos ayuda a entender la evolución del trabajo a lo largo de la historia. Anteriormente pudimos ver cómo había evolucionado el empleo respecto a los sectores de Agricultura, bienes y servicios. Aca podemos apreciar cómo a lo largo de la historia la jornada laboral diaria se redujo a la mitad y la productividad es 20 veces mayor.
 
 Estas estadísticas no demuestran que cada vez haya menos trabajo sino que se pudo hacer más en menos tiempo, trabajando 11 horas por día el trabajador percibió 18 veces menos de lo que percibe trabajando la mitad, esto también es coincidente con la reducción de la pobreza en los últimos años.
 
-## 
-
-La educación
+## La educación
 
 Emprender y trabajar de manera autónomo es una solución efectiva al desempleo tecnológico, un obrero puede ser reemplazado por una robótica superior, accede a un crédito y monta su propia fábrica con sus propios robots. En la práctica esto no funciona porque existe un eslabón clave, la educación.
 
@@ -190,7 +188,7 @@ Tony explica que hasta ahora los profesores trabajaban en un contexto de escasez
 
 Según Tony, nacemos siendo curiosos, creativos e imaginativos es el ADN humano. Un niño de 4 años hace una media de 100 preguntas al dia, pero luego sucede algo que lo llama colegio, en donde los chicos de 12 años dejan de hacer preguntas y comienzan a preocupar por acertar las preguntas de los exámenes. En el mundo competitivo, explica es más importante lo que podemos hacer que lo que simplemente sabemos. Hoy en día muchas empresas a la hora de la entrevista laboral toman el curriculum y le piden al trabajador que demuestre lo que sabe.
 
-![](https://lh5.googleusercontent.com/VlUQvTMsdz1Cl2NkNJICbNi2PL5AYJwNCcOOXZDiZ_dw5yN0Osubu6ThDiK_In-kNWHYsqDrXzBKf3OQmHQI968lVUcIt3T9gguHkOl29EgGH8KR5Owr4EdlX5FAemproqrgprSbloLhIv7_dq2Z8g =270x199)![](https://lh3.googleusercontent.com/-1NJZ1JRUMTY0E7Kj4FwY0-WKfgIFuauDT_IvaGQHjteq6SrTXqDfFAKFphcgBiih-zoVWuJ6t2rdSMGQX4b5zMginIobGp_D-ycl4DeuJCDdMUUaiD87UUXpKpRoRj9T5UNYcMwoXXarJXPCpFW2A =305x199)
+![](/assets/images/edu1.png)![](/assets/images/edu2.png)
 
 Tony elaboró un serie de habilidades que los adolescentes deben tener a la hora de salir al mercado laboral, tanto para emprender como para ocupar un puesto de trabajo:
 
@@ -205,9 +203,7 @@ En es mes de Julio del 2017 muchos sindicalistas de la región participaron de u
 
 Sindicalistas argentinos como Luis Velasquez (Camiones) y Julio Sosa del sindicato La Fraternidad (Trenes) coinciden que es poco productivo estar en contra de la automatización ya que es un fenómeno que no es posible detener pero que realmente tiene un impacto en los trabajadores, ambos trabajan en la negociación con las empresas a la hora de implementar la automatización para que sea de manera gradual y poder cuidar la fuente de trabajo. Coinciden que el sindicato no puede ser un obstáculo sino un acompañamiento por lo que en muchos sindicatos argentinos se están capacitando a los trabajadores para que puedan cumplir nuevas funciones.
 
-## 
-
-Comentarios profesionales sobre el Desempleo tecnológico
+## Comentarios profesionales sobre el Desempleo tecnológico
 
 **José Lino Salvador Barañao** (Ex-Ministro de Ciencia y Tecnología de la Nacion) :
 
