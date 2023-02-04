@@ -4,6 +4,7 @@ categories:
 - DLP
 - Seguridad
 - Hacking
+- backups
 title: 'Data Loss Prevention (DLP): ABC para Empresas y PYMES'
 author: sal
 image: "/assets/images/seguridad-de-la-informacion-01-1200x630.jpg"
