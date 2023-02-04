@@ -112,13 +112,13 @@ Si bien no son los años que se propusieron analizar, es muy significativo ver c
 
 ### Portugal
 
-**![](https://lh4.googleusercontent.com/qK2yFcHDLswZ6x3Q2HC_GwvWmq9EoAimDR1NTvSDb7QzGfcA53x3ce1EP1Sw5LphJvrUhJweQZRWMyQ6eqrIF0kH5PEC4GkppYTRD3f46N6l3MzPvq2TgXCYNIxJ8Kn_wwRETNR2rhTkF0k5iPv9sg =432x214)**
+![](/assets/images/desempportu.png)
 
 En el caso de Portugal se puede ver cómo aumentó considerablemente en los periodos mencionados, replanteando que este es un fenómeno que ocurre según el plan económico que se tenga, ya que en España que es limítrofe al este pais las estadísticas fueron a la inversa.
 
 ### China
 
-**![](https://lh3.googleusercontent.com/KYKF8OD02hkHTGhJJv9vH1pCBQ2uZtXrK_uZIKTMQcE7_ur_6iOBZ8zg4894Z3tOWuew4QkhPxPdOxNXvn6di-VIzNvyfTsvE5_1ZzKZtMScv4nhybD0omyLS1fdm1YntDB8Mt9VGalIrjgmwBP-Yw =602x299)**
+![](/assets/images/dempeschina.png)
 
 Se planteó china en la investigación debido a que es uno de los mayores productores mundiales de bienes, muchos lo denominan la fábrica del mundo y en la última década tomó un pulso muy interesante para muchos económicos.
 
@@ -126,13 +126,13 @@ En el gráfico podemos ver cómo de manera persistente y sostenida comenzó a au
 
 ### Singapur
 
-**![](https://lh4.googleusercontent.com/6ijn1ffFQbh_fM9w9aWGU5Ar9U8rfjhwdR8ApGFSHC8itw0iVeqDhWq7xIp6Vj81YbcI7Dv6CrjaNAzDM9m00zBc4ylT5T6Az9qtKf9Z6y25jsC4LecYkeh7nPXELiahQKWq1mg1f8g58k3Fyb5r6A =602x299)**
+![](/assets/images/dempessigna.png)
 
 Singapur es la contracara al caso de China, ya que es un país muy chico que enfocó su economía a los servicios y especialmente a lo financiero, uno de los principales centros financieros del mundo. Las finanzas representa una cuarta parte de su PBI y el 11% de su empleo. En este caso podemos ver un desempleo más sostenido a pesar se un crecimiento entre 2000 y 2005.
 
 ### Nigeria
 
-### _![](https://lh6.googleusercontent.com/8WMfl2SrT_JDcBoz6pxZtmMlI2u0ahAiNxsjlmsRFXtvMkXiWy_Z6gRF2zetTyozA6Gi_CMsYZCP74aDo64dcjJYKyg37sGRTDW8i8UhD7iA3Ju7Hl1LDxidqbDN3jZnb78DH96t9X25cTsaHQd9Hg =478x249)_
+### ![](/assets/images/dempesnigeria.png)
 
 El caso de Nigeria es también particular, a partir de que se descubrieron pozos petrolíferos, representa el 75% de sus exportaciones y comenzó a verse un mejoramiento en las condiciones de vida como una mejora en el IDH entre otros parámetros.
 
