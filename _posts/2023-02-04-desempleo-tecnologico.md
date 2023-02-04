@@ -86,27 +86,27 @@ Se analizaran las estadísticas de empleo entre los años 2000 y 2010, de 2 paí
 
 En esta primera estadística compara la tasa de interés estadounidense y la tasa de desempleo, lo importante que podemos rescatar es que durante la década se puede observar un aumento significante aunque ahora se puede ver como se está reduciendo. Se ve un aumento importante en los periodos de crisis de este país.
 
-**![](https://lh3.googleusercontent.com/2FivkGd1w6JcWG7q-FjSpYIMoOlAx2QxVRbsB9TSXfkw4y6ZqMTRiOzK4PQoZW1aPEIWH32iXV0pc1GqU241_2ClNtLIKEo_OGb4QlKrW00jt0merMUlJBN08sGwnIQKk46spdWGLjlkzORS9TTzMA =513x336)**
+![](/assets/images/usatasa.png)
 
 En este segundo gráfico se puede ver a nivel macroeconómico como después de la recesión (periodos marcados en gris) Estados Unidos tuvo grandes avances financieros en sus empresas las cuales pudieron invertir en su crecimiento (Línea Verde). Pero también se puede ver como el empleo no evolucionó a la par y aun no se ha recuperado luego de la última caída.
 
 También es interesante ver cómo evolucionó el empleo en este país en específico
 
-![](https://lh4.googleusercontent.com/fnKMcXLIsirWLy9xsfiExacMr3l7TW3m9lU1utz8HymRBa2fFjcyTp9KzAns-b8NqosY99a9M7GfBg6ok9SWj058HjI_AYJJuISRG_EmHq9yhm_pHTlbitZRzQvptNrhUZj99OutmGKsv1wsSmbc-w =378x261)
+![](/assets/images/evolutrabajo.png)
 
 Si bien no son los años que se propusieron analizar, es muy significativo ver cómo desde los principios de la humanidad el hombre se especializó en la producción de alimentos (Agricultura) luego debido a la revolución industrial (1820-1840) las personas comenzaron a agruparse en la ciudades y comenzó la producción de bienes a ser la principal especialización. Ahora, desde el final de la revolución industrial, con la mejoras tecnológicas y la automatización la cantidad de personas que dejaron de trabajar en la producción de bienes es muchísima, y fueron desplazados a los servicios. Hoy en dia solo el 20% se dedica a la producción de bienes en Estados Unidos, siendo igualmente el productor del 17% de la manufactura mundial.
 
 ### Chile
 
-**![](https://lh5.googleusercontent.com/JM_TBTPkZTDqEUvPvHxv1PAY-gwJ5yrskvvGbY_RAUVsSj6hKltzfL4cE5jiqdsgzDzmZDDwmTDcUpmno8MERtke_iJAK_mlxzCnyOxMH0cVRR_x1iMx7SmPG1IYseWxTqrbMq_z9pTW7kfSa4e45A =420x180)**
+![](/assets/images/desempchile.png)
 
 (Fuente: Banco Central de Chile) En el caso de chile podemos observar como un fuerte crecimiento a finales de los 90 que comenzó a descender entre 2002 y 2003. En el caso de chile orientó su economía a los servicios y a la minería lo cual exitosamente pudo reducir su nivel de desempleo.
 
 ### 
 
-España
+### España
 
-**![](https://lh6.googleusercontent.com/eqxW_bH6eiYnEMdctviaUxHh-DD3ZVm1XPo8jN0GuN0MxTPm5_Gw8u6myrx9aIlU8rOPWRvWnYmIx5WomZiQGP0PfqIhxVdk0RYBOy4SkXRLItf1wz0VDbmCg54XzC5jhVZeOwq_RxxJ3vaCmOuIIw =521x207)**
+![](/assets/images/dempespana.png)
 
 (Fuente: FMI) El caso de España es muy significativo para esta tesis, en el periodo en donde el desempleo debería haber aumentado por haberse tratado del aumento de las nuevas tecnologías fue cuando España lo redujo y a partir de 2008 comenzó a ascender nuevamente.
 
