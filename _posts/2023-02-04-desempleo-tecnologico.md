@@ -6,7 +6,7 @@ categories:
 - economia
 - internet
 - IA
-title: Desempleo tecnológico
+title: 'Desempleo tecnológico vs Crecimiento del trabajo autónomo '
 author: sal
 image: "/assets/images/a1-245.jpg"
 
