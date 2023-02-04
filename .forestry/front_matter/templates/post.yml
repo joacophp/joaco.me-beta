@@ -21,4 +21,5 @@ fields:
   name: image
   label: image
 pages:
+- _posts/data-loss-prevention-dlp-abc-para-empresas-y-pymes.md
 - _posts/disparidades-morales-hirientes.md
