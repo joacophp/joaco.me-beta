@@ -21,19 +21,19 @@ Claramente los trabajos más afectados son los que no requieren de una mano de o
 
 Este fenómeno no solo afecta a las clases más bajas sino también a las medias, debido a que aquellos trabajos que no requieren mano de obra calificada son normalmente los que se valen de trabajos repetitivos y tareas que rápidamente la tecnología está reemplazando y no necesita horas extras, vacaciones, feriados, obra social, etc.
 
-**_Desempleo Tecnológico: _**Es un fenómeno del sistema monetario y del mercado en donde el trabajador humano es desplazado porque su función laboral fue reemplazada por una tecnología laboral más eficiente.
+\**_Desempleo Tecnológico: _**Es un fenómeno del sistema monetario y del mercado en donde el trabajador humano es desplazado porque su función laboral fue reemplazada por una tecnología laboral más eficiente.
 
-**_Desempleo: _**Hace referencia a la situación del ciudadano que carece de empleo y, por lo tanto, de salario. Por extensión es la parte de la población que estando en edad, condiciones y disposición de trabajar
+\**_Desempleo: _**Hace referencia a la situación del ciudadano que carece de empleo y, por lo tanto, de salario. Por extensión es la parte de la población que estando en edad, condiciones y disposición de trabajar
 
-**_Automatización industrial: _**Es el uso de sistemas o elementos computarizados y electromecánicos para controlar maquinarias o procesos industriales, antiguamente realizados por personas.
+\**_Automatización industrial: _**Es el uso de sistemas o elementos computarizados y electromecánicos para controlar maquinarias o procesos industriales, antiguamente realizados por personas.
 
-**_Tasa de empleo: _**Es un concepto utilizado en economía que hace referencia a la proporción de personas empleadas respecto a la población en edad de trabajar, que suele considerarse aquella entre 16 y 64 años de edad.
+\**_Tasa de empleo: _**Es un concepto utilizado en economía que hace referencia a la proporción de personas empleadas respecto a la población en edad de trabajar, que suele considerarse aquella entre 16 y 64 años de edad.
 
 **_Tasa de desempleo:_** La tasa de desempleo es una medida de la extensión del desempleo y se calcula como un porcentaje dividiendo el número de personas desempleadas por todas las personas que se encuentran en la fuerza laboral.
 
 **_Mano de obra calificada:_** Esta comprende cierto tipo de destrezas, que suponen un proceso de aprendizaje y experiencia. El manejo de ciertos equipos industriales, de máquinas de diverso género, demanda una mano de obra calificada. Esta es mejor remunerada.
 
-**_Mano de obra no calificada: _**Esta no requiere mayor aprendizaje ni conocimientos especiales. Está al alcance de cualquier persona de educación elemental. Y su remuneración es menor que la de los trabajadores calificados.
+\**_Mano de obra no calificada: _**Esta no requiere mayor aprendizaje ni conocimientos especiales. Está al alcance de cualquier persona de educación elemental. Y su remuneración es menor que la de los trabajadores calificados.
 
 Las nuevas tecnologías sin duda ya están generando grandes cambios en las pequeñas, medianas y grandes empresas. Pero como todo tiene ventajas y desventajas, se rescataron dos de las más significativas.
 
@@ -82,7 +82,7 @@ Se analizaran las estadísticas de empleo entre los años 2000 y 2010, de 2 paí
 
 ### Estados Unidos
 
-**![](https://lh3.googleusercontent.com/jW_Y9Liyi6N1d5B65EnaKZ8lCGulVzUejsLANc6uFris5010QaQKZ7BOnvIZVYfFcf4k5WSMEYlPLgeNVrZlz9r6fouYYu1qM_9ZoOWl-Rp4pkhpXBw86tMEdvHjBkEfF5QGcFSnHgGLqFg10xgnig =457x256)**
+![](/assets/images/usa.png)
 
 En esta primera estadística compara la tasa de interés estadounidense y la tasa de desempleo, lo importante que podemos rescatar es que durante la década se puede observar un aumento significante aunque ahora se puede ver como se está reduciendo. Se ve un aumento importante en los periodos de crisis de este país.
 
@@ -102,7 +102,8 @@ Si bien no son los años que se propusieron analizar, es muy significativo ver c
 
 (Fuente: Banco Central de Chile) En el caso de chile podemos observar como un fuerte crecimiento a finales de los 90 que comenzó a descender entre 2002 y 2003. En el caso de chile orientó su economía a los servicios y a la minería lo cual exitosamente pudo reducir su nivel de desempleo.
 
-###   
+### 
+
 España
 
 **![](https://lh6.googleusercontent.com/eqxW_bH6eiYnEMdctviaUxHh-DD3ZVm1XPo8jN0GuN0MxTPm5_Gw8u6myrx9aIlU8rOPWRvWnYmIx5WomZiQGP0PfqIhxVdk0RYBOy4SkXRLItf1wz0VDbmCg54XzC5jhVZeOwq_RxxJ3vaCmOuIIw =521x207)**
@@ -123,8 +124,8 @@ Se planteó china en la investigación debido a que es uno de los mayores produc
 
 En el gráfico podemos ver cómo de manera persistente y sostenida comenzó a aumentar el desempleo en la última década. Lo interesante del caso de China es que estas nuevas tecnología impactan de manera muy significante, ya que los trabajadores de las fábricas realizan tareas repetitivas, y las máquinas vienen a suplantar este tipo de tareas.
 
-### Singapur  
-  
+### Singapur
+
 **![](https://lh4.googleusercontent.com/6ijn1ffFQbh_fM9w9aWGU5Ar9U8rfjhwdR8ApGFSHC8itw0iVeqDhWq7xIp6Vj81YbcI7Dv6CrjaNAzDM9m00zBc4ylT5T6Az9qtKf9Z6y25jsC4LecYkeh7nPXELiahQKWq1mg1f8g58k3Fyb5r6A =602x299)**
 
 Singapur es la contracara al caso de China, ya que es un país muy chico que enfocó su economía a los servicios y especialmente a lo financiero, uno de los principales centros financieros del mundo. Las finanzas representa una cuarta parte de su PBI y el 11% de su empleo. En este caso podemos ver un desempleo más sostenido a pesar se un crecimiento entre 2000 y 2005.
@@ -141,7 +142,7 @@ El emprendedurismo es una nueva tendencia en la evolución del trabajo, las nuev
 
 _El nivel de actividad emprendedora_: Empezando por lo primero, es decir, la definición del nivel de actividad emprendedora de cada país, el GEM 2000 utiliza un índice elaborado combinando el porcentaje de las personas entre 18 y 64 años, de cada país, que se dedican al lanzamiento de nuevas empresas, con el porcentaje de los individuos, comprendidos entre las mismas edades, que se hallan comprometidos en la gestión de empresas jóvenes, entendiendo por tales las que, en el momento de la encuesta, Julio 2000, tenían una antigüedad inferior a 42 meses desde su creación. En ambos casos, se trata de personas que tienen interés directo, aunque no forzosamente total, en la propiedad de las empresas investigadas. La arbitrariedad en la definición del índice de actividad emprendedora, en la forma que acabo de decir, es evidente, como lo es que caben diversas definiciones alternativas, siendo esta observación la primera de las matizaciones al GEM 2000 que, según anuncié, me propongo hacer. Sin embargo, la necesidad de optar por alguna definición y siendo la elegida suficientemente razonable, parece que nada se opone a aceptarla como válida.
 
- Pues bien, los datos obtenidos por el GEM 2000, en julio-agosto del año 2000, son los que aparecen en el cuadro nº. 1 donde figuran, expresados en porcentaje de la población entre 18 y 64 años, los resultados medios de las encuestas realizadas en cada país, ordenados de forma que expresen su actividad emprendedora comparada con la de los restantes países de la muestra; muestra que comprende 21 países que, si bien, difieren en muchos aspectos, la mayoría de ellos encaran el reto de fomentar la actividad emprendedora, en orden, a promover el crecimiento económico del país. Como se ve, Brasil ostenta el mayor nivel del índice, 16%, seguido por Corea del Sur, 14%, y Estados Unidos, 13%. Irlanda y Japón ocupan los últimos lugares con porcentajes entre el 1 y el 2 por ciento. La mayoría de los países europeos están en la zona comprendida entre el 2 y el 6 por ciento, con la excepción de Noruega que alcanza el 8%.
+Pues bien, los datos obtenidos por el GEM 2000, en julio-agosto del año 2000, son los que aparecen en el cuadro nº. 1 donde figuran, expresados en porcentaje de la población entre 18 y 64 años, los resultados medios de las encuestas realizadas en cada país, ordenados de forma que expresen su actividad emprendedora comparada con la de los restantes países de la muestra; muestra que comprende 21 países que, si bien, difieren en muchos aspectos, la mayoría de ellos encaran el reto de fomentar la actividad emprendedora, en orden, a promover el crecimiento económico del país. Como se ve, Brasil ostenta el mayor nivel del índice, 16%, seguido por Corea del Sur, 14%, y Estados Unidos, 13%. Irlanda y Japón ocupan los últimos lugares con porcentajes entre el 1 y el 2 por ciento. La mayoría de los países europeos están en la zona comprendida entre el 2 y el 6 por ciento, con la excepción de Noruega que alcanza el 8%.
 
 ![](https://lh4.googleusercontent.com/sxn0J5CEDiqsGNVZANrit0BEkxtGF8C0Rwt2NK_wKT3dK8JkTvisIx2Y1u-pwB2kFDeDfGf07O_ZyV3f64Y17RFtrDwErkQn1vw0M2czjNRtc_cRvweGXJesEOOEeIJZIUbRdQCKYoimS2iMg8hhQw =475x307)
 
@@ -153,9 +154,9 @@ A continuación se muestra un gráfico con estudios realizados por el banco y lo
 
 ![](https://lh6.googleusercontent.com/M2oNJZF1j-_IO7PxAKAK62MqAhXZ2VoE5FFuKzQ8_Z8yLK0WBUIrz1Kvx70U0I6TR6vX2VO0kY3ribVLh8PtdoSCCkh7v-L2xLwIlWvGnkGOEBQvszl0QEp0j4SDLkyJGT3vjLwY83icnTWO-tNRSg =462x261)
 
-Global Entrepreneurship Monitor realizó un estudio en 2014 en donde buscaba descifrar el estado del emprendimiento mundial y se topó con la sorpresa que países africanos encabezaban esta revolución. 
+Global Entrepreneurship Monitor realizó un estudio en 2014 en donde buscaba descifrar el estado del emprendimiento mundial y se topó con la sorpresa que países africanos encabezaban esta revolución.
 
-  "El panorama empresarial en África subsahariana es absolutamente excelente", dice Mike Herrington, director ejecutivo de Global Entrepreneurship Monitor (GEM) y profesor de la Universidad de Ciudad del Cabo en Sudáfrica. "Está en aumento porque África, por fin, ha estado emergiendo y las economías están en auge: varios países están comenzando a aumentar realmente la actividad empresarial y pasar a la iniciativa empresarial, en lugar de la necesidad de emprendimiento", agrega. "Las oportunidades abundan y está surgiendo un espíritu positivo entre la población de estos países".
+"El panorama empresarial en África subsahariana es absolutamente excelente", dice Mike Herrington, director ejecutivo de Global Entrepreneurship Monitor (GEM) y profesor de la Universidad de Ciudad del Cabo en Sudáfrica. "Está en aumento porque África, por fin, ha estado emergiendo y las economías están en auge: varios países están comenzando a aumentar realmente la actividad empresarial y pasar a la iniciativa empresarial, en lugar de la necesidad de emprendimiento", agrega. "Las oportunidades abundan y está surgiendo un espíritu positivo entre la población de estos países".
 
 **_![](https://lh4.googleusercontent.com/HBDrvxgX0P4spWStb2Vk22IDE2ElPmxTMtJPeFmhl8X03Dyom21dLfZEZJo-ackNZauEOFJICQHbOA_kwYnb64PrEPl2V1dJ5-f8ikLWIBp79USVH312e6uwYjPaLKVDEQEB7HeqdDgadwi3tDJddQ =348x355)_**
 
@@ -169,7 +170,6 @@ _El período de recesión y crisis, cuyo comienzo puede situarse en 2010, vio en
 
 ## Evolución de la jornada laboral
 
-  
 El siguiente cuadro expresa la jornada laboral de un trabajador en Reino Unido entre los años 1785 y el año 2000
 
 ![](https://lh4.googleusercontent.com/WmR16k2E2C7khiiJNNJHGSJnJk8_7O-hYEteg9JtmbmE_YYLVgVtglAVuByLx5LFpAN6kw84fdEOwRUcnuA3G2y6PEkuqQKb-9cXcFpHEIKa9TMMayGUIbPWtVoM8nBeC4CX-OGnYYS7AXI75fj1oQ =602x212)
@@ -178,8 +178,9 @@ Si bien no son las fechas involucradas en la hipótesis sin duda nos ayuda a ent
 
 Estas estadísticas no demuestran que cada vez haya menos trabajo sino que se pudo hacer más en menos tiempo, trabajando 11 horas por día el trabajador percibió 18 veces menos de lo que percibe trabajando la mitad, esto también es coincidente con la reducción de la pobreza en los últimos años.
 
-##   
-La educación 
+## 
+
+La educación
 
 Emprender y trabajar de manera autónomo es una solución efectiva al desempleo tecnológico, un obrero puede ser reemplazado por una robótica superior, accede a un crédito y monta su propia fábrica con sus propios robots. En la práctica esto no funciona porque existe un eslabón clave, la educación.
 
@@ -189,7 +190,6 @@ Tony explica que hasta ahora los profesores trabajaban en un contexto de escasez
 
 Según Tony, nacemos siendo curiosos, creativos e imaginativos es el ADN humano. Un niño de 4 años hace una media de 100 preguntas al dia, pero luego sucede algo que lo llama colegio, en donde los chicos de 12 años dejan de hacer preguntas y comienzan a preocupar por acertar las preguntas de los exámenes. En el mundo competitivo, explica es más importante lo que podemos hacer que lo que simplemente sabemos. Hoy en día muchas empresas a la hora de la entrevista laboral toman el curriculum y le piden al trabajador que demuestre lo que sabe.
 
-  
 ![](https://lh5.googleusercontent.com/VlUQvTMsdz1Cl2NkNJICbNi2PL5AYJwNCcOOXZDiZ_dw5yN0Osubu6ThDiK_In-kNWHYsqDrXzBKf3OQmHQI968lVUcIt3T9gguHkOl29EgGH8KR5Owr4EdlX5FAemproqrgprSbloLhIv7_dq2Z8g =270x199)![](https://lh3.googleusercontent.com/-1NJZ1JRUMTY0E7Kj4FwY0-WKfgIFuauDT_IvaGQHjteq6SrTXqDfFAKFphcgBiih-zoVWuJ6t2rdSMGQX4b5zMginIobGp_D-ycl4DeuJCDdMUUaiD87UUXpKpRoRj9T5UNYcMwoXXarJXPCpFW2A =305x199)
 
 Tony elaboró un serie de habilidades que los adolescentes deben tener a la hora de salir al mercado laboral, tanto para emprender como para ocupar un puesto de trabajo:
@@ -205,7 +205,8 @@ En es mes de Julio del 2017 muchos sindicalistas de la región participaron de u
 
 Sindicalistas argentinos como Luis Velasquez (Camiones) y Julio Sosa del sindicato La Fraternidad (Trenes) coinciden que es poco productivo estar en contra de la automatización ya que es un fenómeno que no es posible detener pero que realmente tiene un impacto en los trabajadores, ambos trabajan en la negociación con las empresas a la hora de implementar la automatización para que sea de manera gradual y poder cuidar la fuente de trabajo. Coinciden que el sindicato no puede ser un obstáculo sino un acompañamiento por lo que en muchos sindicatos argentinos se están capacitando a los trabajadores para que puedan cumplir nuevas funciones.
 
-##   
+## 
+
 Comentarios profesionales sobre el Desempleo tecnológico
 
 **José Lino Salvador Barañao** (Ex-Ministro de Ciencia y Tecnología de la Nacion) :
