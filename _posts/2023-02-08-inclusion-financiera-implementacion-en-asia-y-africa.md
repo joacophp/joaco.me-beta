@@ -46,7 +46,7 @@ La digitalización de los pagos también ha tenido un impacto positivo en la inc
 
 En conclusión, la digitalización de los pagos ha sido un factor clave para mejorar la economía en Asia. Ha mejorado la eficiencia, la transparencia y la inclusión financiera en la región, impulsando el crecimiento económico y mejorando la calidad de vida de las personas. La adopción continua de la tecnología financiera en Asia promete seguir impulsando el crecimiento económico y mejorar la inclusión financiera en la región.
 
-Todo lo que leyeron hasta ahora fue generado por GPT-3. GPT-3 es un modelo de lenguaje de inteligencia artificial (IA) desarrollado por OpenAI. Es una red neuronal de gran escala que ha sido entrenada con millones de documentos de texto en Internet para producir texto coherente y auténtico. Con una capacidad de procesamiento de 175 mil millones de parámetros, GPT-3 es uno de los modelos de IA más grandes y avanzados jamás desarrollados. 
+Todo lo que leyeron hasta ahora fue generado por GPT-3. GPT-3 es un modelo de lenguaje de inteligencia artificial (IA) desarrollado por OpenAI. Es una red neuronal de gran escala que ha sido entrenada con millones de documentos de texto en Internet para producir texto coherente y auténtico. Con una capacidad de procesamiento de 175 mil millones de parámetros, GPT-3 es uno de los modelos de IA más grandes y avanzados jamás desarrollados.
 
 El modelo de IA es utilizado para responder tus preguntas y brindarte información precisa y concisa. Al proporcionar una respuesta coherente y en tiempo real, GPT-3 permite que este  funcione como un asistente virtual capaz de brindar información sobre una amplia variedad de temas, incluyendo tecnología, historia, geografía y mucho más.
 
