@@ -5,7 +5,7 @@ categories:
 - Digitalizacion
 - Inclusion
 - Creditos
-title: 'Inclusión financiera: Implementación en Asia y África '
+title: 'Inclusión financiera: Implementación en África y Asia'
 author: sal
 image: "/assets/images/large.jpg"
 
