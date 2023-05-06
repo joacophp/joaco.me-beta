@@ -27,7 +27,7 @@ Todas estas particularidades del sistema financiero argentino me llamaron a la r
 A pesar de todas estas preguntas hay una sola que sigue haciendo ruido en mi cabeza y es la de ¿Quien paga la diferencia? Es muy común en Argentina comprar electrodomésticos en muchas cuotas sin interés porque esto implica una ventaja muy importante: Al tener una inflación anual de mas del 100% en 12 cuotas o más esta  licua el precio del bien mensualmente. Tambien es muy común en Argentina viajar al extranjero, pagar con la tarjeta de crédito en dólares y al llegar al país, pagar el resumen de esta tarjeta vendiendo dólares en el mercado informal para así obtener mas pesos y hacer una diferencia importante ya que el banco debitara pesos de la cuenta a dólar valor oficial. Es decir, con este método, tenemos que vender menos dólares de los que realmente gastamos en nuestro viaje en el extranjero.
 
 
-![](/assets/images/muhammad-yunus-780.jpg)
+![](/assets/images/heladeras-venta.jpg)
 
 ¿Es muy loco verdad? Bueno no, para los Argentinos todo esto se trasformo en algo natural y nos acostumbramos a vivir de esta forma. Lo que si es interesante es hacer un esfuerzo y tratar de entender quien paga la diferencia de estas “técnicas” que tenemos los argentinos.
 
