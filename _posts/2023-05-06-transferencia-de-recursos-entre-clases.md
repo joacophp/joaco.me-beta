@@ -20,7 +20,7 @@ Esto nos obligo desarrollar ciertos patrones de comportamiento que son observado
 -Por distintas regulaciones cambiarías tenemos un mercado de cambios paralelo o informal donde la clase media con capacidad de ahorros acude para poder operar sin limites y por fuera de los radares de la administración tributaria. Lo verán como algo profundamente ilegal, pero aquí viene el próximo dato:
 -En marzo de 2023 la Organización Internacional del Trabajo indico que en la argentina el 45% de los empleos son informales. Por ende no están amparados por la leyes de trabajo y tanto los empleadores como los empleados tienen que operar en la informalidad sin pasar por el sistema bancario para no ser detectados por el ente recaudador.
 
-![](/assets/images/shangai.jpg)
+![](/assets/images/dolares.jpg)
 
 Todas estas particularidades del sistema financiero argentino me llamaron a la reflexión en el ultimo tiempo. Me pregunto, ¿Como puede ser que todo esto siga operando y sigamos en pie como si nada? ¿Como puede operar un país donde la mitad de su economía no tributa impuestos? ¿Como puede funcionar un país donde las personas no ahorren en los bancos? ¿Como hacen los bancos para prestar dinero si no tienen ahorristas genuinos? ¿Como hacen las empresas para subsistir con la incapacidad de endeudarse que trae un sistema donde no hay prácticamente ahorristas? Bueno, la lista de preguntas puede ser infinita.
 
