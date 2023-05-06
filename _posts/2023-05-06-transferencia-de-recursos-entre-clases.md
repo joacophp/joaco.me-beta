@@ -13,12 +13,12 @@ image: "/assets/images/heladera.png"
 En los últimos años Argentina, el país donde nací y vivo actualmente, atraviesa un contexto de inflación permanente donde todos los argentinos tenemos la certeza de que ciertos factores de la economía van a subir y ciertos van a bajar. Los que nacimos entre las cenizas de la crisis del 2001 aprendimos desde el día uno de nuestra existencia que el valor del dólar siempre iba a aumentar al igual que la inflación.
 
 Esto nos obligo desarrollar ciertos patrones de comportamiento que son observados como un caso particular de estudio en los distintos países del mundo:
-* La mayoría de argentinos no ahorramos en instrumentos financieros que permitan nos capitalizar nuestros ahorros. Utilizamos el dólar como instrumento cotidiano de inversión.
+* La mayoría de argentinos no ahorramos en instrumentos financieros que nos permitan  capitalizar nuestros ahorros. Utilizamos el dólar como instrumento cotidiano de inversión.
 * Los dólares que ahorramos los retiramos instantáneamente del sistema financiero y nos gusta tener los billetes físicos. Argentina, fuera de EEUU, es el país en el mundo con mayor flujo de dólares en efectivo.
 * A pesar de ahorrar en dólares, nuestra economía no esta dolarizada. El precio de los bienes por mas que provengan del extranjero tienen su valor en pesos argentinos que en la mayoría de casos cambia semanal o diariamente en función de la variación del dólar pero no se comercializan productos pagando en dólares billete a excepción de operaciones inmobiliarias y algún que otro caso puntual. 
 * Argentina SIEMPRE esta en promoción. El ritmo de inflación que tenemos logró que muchos de los ciudadanos perdamos la noción del precio de los bienes y productos que consumimos. Permanentemente hay ofertas en 12 o 18 cuotas sin interés y las personas agotan el stock rápidamente. 
 * Por distintas regulaciones cambiarías tenemos un mercado de cambios paralelo o informal donde la clase media con capacidad de ahorros acude para poder operar sin limites y por fuera de los radares de la administración tributaria. Lo verán como algo profundamente ilegal, pero aquí viene el próximo dato:
-* En marzo de 2023 la Organización Internacional del Trabajo indico que en la argentina el 45% de los empleos son informales. Por ende no están amparados por la leyes de trabajo y tanto los empleadores como los empleados tienen que operar en la informalidad sin pasar por el sistema bancario para no ser detectados por el ente recaudador.
+* En marzo de 2023 la Organización Internacional del Trabajo índico que en la argentina el 45% de los empleos son informales. Por ende no están amparados por la leyes de trabajo y tanto los empleadores como los empleados tienen que operar en la informalidad sin pasar por el sistema bancario para no ser detectados por el ente recaudador.
 
 ![](/assets/images/dolares.jpg)
 
