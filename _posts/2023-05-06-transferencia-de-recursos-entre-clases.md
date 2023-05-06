@@ -7,7 +7,7 @@ categories:
 - Creditos
 title: 'Transferencia de recursos entre clases en contextos de inflación y crisis'
 author: sal
-image: "/assets/images/heladera.jpg"
+image: "/assets/images/heladera.png"
 
 ---
 En los últimos años Argentina, el país donde nací y vivo actualmente, atraviesa un contexto de inflación permanente donde todos los argentinos tenemos la certeza de que ciertos factores de la economía van a subir y ciertos van a bajar. Los que nacimos entre las cenizas de la crisis del 2001 aprendimos desde el día uno de nuestra existencia que el valor del dólar siempre iba a aumentar al igual que la inflación.
