@@ -47,7 +47,7 @@ Y esto es en el mejor de los casos, cuando una familia puede reunir el efectivo 
 
 Una vez superados todos estos obstáculos para poder comprar una heladera que ayudará en el progreso del hogar, los vecinos mas vulnerables tendrán que notar como los electrodomésticos mas económicos y de peor calidad son los que mas consumen energía. Esto implica que con los aumentos tarifarios recurrentes se afecta directamente a los sectores mas vulnerables que son los que cuentan con electrodomésticos de gamas bajas y alto consumo. 
  
-![](/assets/images/alipay-from-scmp.jpeg)
+![](/assets/images/creditos-si.jpg)
 
 Lo mas terrible de toda esta historia de la economía argentina es que aún sin comprar ninguna heladera, permanentemente, los ciudadanos de menores ingresos tienen que estar financiando los “trucos” que se recomiendan en los principales diarios financieros. 
 Cuando un ciudadano viaja al extranjero, paga con su tarjeta de crédito argentina y su banco luego convierte en el resumen a pesos, esos dólares reales que gasto los deberá pagar el estado argentino y el aprovechará la ventaja cambiaria para poder vender menos dólares de los que realmente gasto. Esto genera deficit, al igual que los autos de lujo que son importado a valor de dólar oficial (mas del 100% menos que el informal) o las trampas como el “Dolar Barbijo” donde se importaban barbijos sobrefacturados para que el BCRA gire mas dólares de los que corresponden y luego los importadores puedan venderlos en el mercado informal. 
