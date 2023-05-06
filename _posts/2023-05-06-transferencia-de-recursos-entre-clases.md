@@ -37,7 +37,7 @@ Al tener la mitad de nuestra economía en la informalidad, es casi imposible par
 
 Para poder seducir a los ahorristas, los bancos tienen que ofrecer tazas que tienten por encima de la inflación anual del 100% pero esto al mismo tiempo implica que las tazas de financiación de las tarjetas tienen que ser aún mayores para poder pagarle a los ahorristas y también obtener beneficios para el banco ¿Esto es malo? No! en Argentina poder acceder al crédito formal implica un beneficio que 83% de la población mayor de 19 años no tiene.
 
-![](/assets/images/_104131313_microcredito.jpg)
+![](/assets/images/trabajo-precario.jpg)
 
 Uno de los electrodomésticos indispensables para poder abaratar los costos de una economía familiar es la Heladera. Poder mantener la cadena de frio de los alimentos implica poder conservar y comprar en mayor volumen lo que abarata considerablemente los costos del hogar. En el Censo de 2010 se detecto que 1 de cada 17 hogares argentinos no tenia una heladera que le permita mantener la cadena de frio.
 
