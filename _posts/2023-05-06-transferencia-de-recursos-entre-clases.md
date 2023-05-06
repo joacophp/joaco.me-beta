@@ -5,7 +5,7 @@ categories:
 - Economia
 - Inclusion
 - Creditos
-title: 'Transferencia de recursos entre clases en contextos de inflación y crisis'
+title: 'Transferencia de recursos entre clases en contextos de crisis e inflación'
 author: sal
 image: "/assets/images/heladera.png"
 
