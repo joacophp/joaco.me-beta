@@ -8,8 +8,6 @@ categories:
 - Marketing
 - Salud
 image: "/assets/images/SUPER.jpg"
-tags:
-- featured
 
 ---
 _Una vez más en la_ [_Ventana de Overton_](https://es.wikipedia.org/wiki/Ventana_de_Overton) _solo hay lugar para los “Trending topics” y olvidamos las epidemias que viven con nosotros todos los días. ¿Qué responsabilidad tienen los supermercados en nuestra alimentación diaria?_
