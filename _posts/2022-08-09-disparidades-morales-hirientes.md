@@ -7,6 +7,8 @@ categories:
 title: Disparidades Morales Hirientes
 author: sal
 image: "/assets/images/desigualdad.jpg"
+tags:
+- featured
 
 ---
 _Debemos lamentar y al mismo tiempo celebrar que tras la pandemia del Covid-19 la desigualdad ha quedado como un problema pendiente a tratar en nuestras economías contemporáneas. ¿Y porque lamentar? Lamentamos el enfoque con el que se aborda la desigualdad como temática, haciendo énfasis únicamente en la distribución del ingreso sin contemplar las causantes de esta ultima desigualdad. Lamentamos que únicamente nos asombren los datos relacionados con los recursos económicos y no con los miles de niños y niñas que padecen todos los días la desigualdad y la arrogancia de una sociedad que sueña con una meritocracia dándoles la espalda._
