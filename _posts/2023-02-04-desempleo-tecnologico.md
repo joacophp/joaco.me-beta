@@ -9,6 +9,8 @@ categories:
 title: 'Desempleo tecnológico vs Crecimiento del trabajo autónomo '
 author: sal
 image: "/assets/images/a1-245.jpg"
+tags:
+- featured
 
 ---
 Se puede observar en los últimos tiempos, un gran avance de las nuevas tecnologías en nuestra vida cotidiana y en las empresas, tras este avance se nota a simple vista una mayor productividad de las empresas al implementar la automatización a sus procesos de fabricación pero también que requiere menos mano de obra. Si esta situación que se ve en muchas empresas hubiese pasado en otras fuentes del empleo, podríamos notar cambios en la macroeconomía de los últimos años no solo en la Argentina sino en el resto de los países del mundo. Este problema no solo sería responsable de parte de la desocupación sino también del incremento de la brecha social ya que las nuevas tecnologías generan riqueza y al mismo tiempo exclusión, lo que no sucedía en la antigüedad donde había crecimiento también venia el empleo. Los sectores de menores ingresos de la sociedad, tienen mayor dificultad para el acceso a las nuevas tecnologías y a su capacitación por lo que cada vez es más grande la brecha y menos conveniente para las empresas tomar personal no capacitado.
