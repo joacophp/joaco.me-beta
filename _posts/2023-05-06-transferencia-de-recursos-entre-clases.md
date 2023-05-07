@@ -30,6 +30,8 @@ A pesar de todas estas preguntas hay una sola que sigue haciendo ruido en mi cab
 
 Según el informe de estructura presentado por el BCRA en diciembre de 2022, en Argentina hay 6.463.840 de titulares de tarjetas de crédito. Según el último censo de 2022, esto representa que solo el 14% de los Argentinos tiene acceso a una tarjeta de crédito.
 
+![](/assets/images/mastercard.jpg)
+
 Al tener la mitad de nuestra economía en la informalidad, es casi imposible para un trabajador no registrado poder construir un historial crediticio sin ningún ingreso declarado. Esto sumado a la costumbre argentina de no ahorrar dentro del sistema bancario genera un riesgo altísimo para las distintas entidades bancarias a la hora de prestar dinero.
 
 Para poder seducir a los ahorristas, los bancos tienen que ofrecer tasas que tienten por encima de la inflación anual del 100% pero esto al mismo tiempo implica que las tasas de financiación de las tarjetas tienen que ser aún mayores para poder pagarle a los ahorristas y también obtener beneficios para el banco ¿Esto es malo? No! en Argentina poder acceder al crédito formal implica un beneficio que 83% de la población mayor de 19 años no tiene.
