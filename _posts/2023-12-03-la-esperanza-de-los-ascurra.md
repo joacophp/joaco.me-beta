@@ -3,6 +3,7 @@ layout: post
 categories:
 - Gastronomía
 - Buenos Aires
+- Tortilla
 
 title: 'La Esperanza de los Ascurra: Tortilla de Papas. Plato básico con tendencia a fallar'
 author: sal
