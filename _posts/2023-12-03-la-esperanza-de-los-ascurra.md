@@ -5,7 +5,7 @@ categories:
 - Buenos Aires
 - Tortilla
 
-title: 'La Esperanza de los Ascurra: Tortilla de Papas. Plato básico con tendencia a fallar'
+title: 'La Esperanza de los Ascurra: Tortilla de Papas, un plato básico con tendencia a fallar'
 author: sal
 image: "/assets/images/calle.jpg"
 tags:
@@ -18,6 +18,7 @@ Pasados unos días de la cirugía odontológica en la que mi dentista extrajo mi
 * **_Origen:_** Tapas, Bodegón Porteño
 * **_Comida:_** ☆☆
 * **_Establecimiento:_** ☆☆☆
+* **_Monto Cancelado:_** $6200 (U$6.49)
   
 ![](/assets/images/tortilla.jpg)
 
