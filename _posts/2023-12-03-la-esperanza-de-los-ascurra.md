@@ -22,7 +22,7 @@ Pasados unos días de la cirugía odontológica en la que mi dentista extrajo mi
 
 ## Tortilla de Papas, un clásico/básico que no debe fallar.
 
-"No hay nada mas Porteño que venir de afuera" La tortilla de papas es un plato clasico de la gastronomía española que fue adoptado e incluido como un infaltable en todas las cartas de los bodegones porteños. Cuando llegue a "La esperanza de los Ascurra" el mozo me ofrecio algo para tomar mientras esperaba, a lo que le indique: "No espero a nadie", el remato preguntandome si me encontraba bien ¿? a lo que le respondí "Perfectamente". Normalmente no tengo claro que voy a pedir antes de llegar al local gastronomico pero en esta ocasión, dada mi necesidad especica, le indique una misión sencilla: "Una tortilla de papas grande y un sifon de soda".
+"No hay nada más porteño que venir de afuera". La tortilla de papas es un plato clásico de la gastronomía española que fue adoptado e incluido como un infaltable en todas las cartas de los bodegones porteños. Cuando llegué a "La esperanza de los Ascurra", el mozo me ofreció algo para tomar mientras esperaba, a lo que le indiqué: "No espero a nadie". Él remató preguntándome si me encontraba bien, a lo que respondí: "Perfectamente". Normalmente no tengo claro qué voy a pedir antes de llegar al local gastronómico, pero en esta ocasión, dada mi necesidad específica, le indiqué una misión sencilla: "Una tortilla de papas grande y un sifón de soda".
 
 Dante Liporace, ex chef presidencial y dueño del Mercado de Liniers, sostiene que la manera correcta de evaluar la calidad de la comida en un bodegón es pidiendo tortilla de papas o puré de papas. Son dos platos que nunca deben salir mal, sin excusas.
 
