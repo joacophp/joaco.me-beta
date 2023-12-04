@@ -24,5 +24,18 @@ Pasados unos días de la cirugía odontológica en la que mi dentista extrajo mi
 
 "No hay nada mas Porteño que venir de afuera" La tortilla de papas es un plato clasico de la gastronomía española que fue adoptado e incluido como un infaltable en todas las cartas de los bodegones porteños. Cuando llegue a "La esperanza de los Ascurra" el mozo me ofrecio algo para tomar mientras esperaba, a lo que le indique: "No espero a nadie", el remato preguntandome si me encontraba bien ¿? a lo que le respondí "Perfectamente". Normalmente no tengo claro que voy a pedir antes de llegar al local gastronomico pero en esta ocasión, dada mi necesidad especica, le indique una misión sencilla: "Una tortilla de papas grande y un sifon de soda".
 
+Dante Liporace, ex chef presidencial y dueño del Mercado de Liniers, sostiene que la manera correcta de evaluar la calidad de la comida en un bodegón es pidiendo tortilla de papas o puré de papas. Son dos platos que nunca deben salir mal, sin excusas.
 
+![](/assets/images/solo.jpg)
 
+El mozo, cuyo nombre actualmente no recuerdo, hizo bien en querer explicar el punto de la tortilla: "Sale bien a punto medio babé". "Babé" no debe confundirse con "Bavette"; es el término favorito de los argentinos para referirse al punto de cocción de la tortilla de papas. Normalmente, cuando uno lo solicita, el mozo (que no tiene ninguna responsabilidad en este caso) puede traer una tortilla cocida por fuera y cruda por dentro, un "vuelta y vuelta", por así decirlo. Siempre que consumamos un producto que contenga huevo, este debe ser expuesto a una temperatura mayor de 70 grados para eliminar el riesgo de ingerir la bacteria Salmonella.
+
+![](/assets/images/tortillacortada.jpg)
+
+Para mi sorpresa, el punto de la tortilla era excelente: cocida como corresponde y jugosa por dentro, pero lo suficientemente expuesta al calor para que no existiera el riesgo de Salmonella. Lamentablemente, mientras comía, tuve la sensación de que utilizaron la misma sartén (sin lavar) que en una preparación de gambas, hasta que pude identificar la presencia de ajo y el exceso de aceite de oliva. La mayoría de las recetas de tortilla de papas no llevan ajo, y si uno quiere innovar (aunque no se recomienda en un clásico como la tortilla), no debería colocar 3 dientes de ajo. No pude terminarla, una pena.
+
+El lugar era simpático, con un primer piso que tenía pocas mesas y donde corría un poco de aire. Lamentablemente, me tocó una mesa que estaba expuesta al sol y calentó rápidamente mi sifón de soda. Todo el lugar me dio la sensación de ser la esperanza de una familia patricia venida a menos, que subsistía gracias a su emprendimiento gastronómico. Desconozco la historia real más allá de mi impresión.
+
+![](/assets/images/152.jpg)
+
+En fin, una experiencia agradable para una comida rápida, buscada en Google Maps después de una cirugía. 
