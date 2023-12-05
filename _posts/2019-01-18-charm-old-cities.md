@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yerba mate sin trabajo infantil
-author: jane
+author: sal
 categories:
 - Trabajo Infantil
 - Desigualdad
