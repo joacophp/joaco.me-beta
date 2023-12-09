@@ -2,26 +2,25 @@
 layout: post
 categories:
 - Gastronomía
-- Buenos Aires
-- España
-- Tapas
+- Mar del Plata
+- Gambas
 
 title: 'Stella Maris: Gambas al Ajillo'
 author: sal
-image: "/assets/images/fachada-paquitos.jpg"
+image: "/assets/images/stella-maris.png"
 tags:
 - featured
 
 ---
-Por reunir valores de identidad histórica y arquitectónica, destacando su puesta en valor para el disfrute colectivo", es la justificación que se exhibe en el Diploma al aporte a la Identidad Marplatense otorgado a Stella Maris por la Defensoría del Pueblo marplatense.
+"Por reunir valores de identidad histórica y arquitectónica, destacando su puesta en valor para el disfrute colectivo", es la justificación que se exhibe en el Diploma al aporte a la Identidad Marplatense otorgado a Stella Maris por la Defensoría del Pueblo marplatense.
 
 * **_Ubicación:_** Alberti 1201, Mar del Plata.
-* **_Origen:_** Tapas, España.
+* **_Origen:_** Mariscos, Española, Argentina
 * **_Comida:_** ☆☆
 * **_Establecimiento:_** ☆☆☆☆☆
-* **_Monto Cancelado:_** $8800 (U$9.67)
+* **_Monto Cancelado:_** $8800 (U$8.88)
   
-## Stella Maris: .
+## Stella Maris: Un lugar de desconcierto total.
 
 A escasos metros del "Centrito de Güemes", encontramos a Stella Maris, un restaurante clásico marplatense que opera desde 1960, tal como menciona su extensa carta. La ambientación es espectacular, con manteles de tela, techos altos y una barra de madera que exhibe cuidadosamente los vinos. Abundan los detalles de época, como percheros dorados y un ventilador antiguo.
 
@@ -29,8 +28,8 @@ Sin presentarse, la moza me entregó la extensa carta de Stella Maris; no es cul
 
 Solicité un agua con gas, como de costumbre, una Ensalada Mixta y unas gambas al ajillo que, al parecer, eran la especialidad de la casa. Aunque el lugar carecía de música ambiental, la arquitectura logró captar gran parte de mi atención.
 
-![](/assets/images/apuestas.jpg)
-_Maquina Tragamonedas_
+![](/assets/images/ensalada-mixta.jpg)
+_Ensalada Mixta_
 
 Ensalada Mixta: Lechuga francesa, tomate y cebolla. No es una tarea difícil, pero requiere ciertos cuidados que en Stella Maris no tuvieron:
 * **_1)_** Como regla general, la lechuga tiene que estar fresca, pero además, ¡SECA! Servir la lechuga empapada hace que, al momento de condimentar con aceite de oliva, este no pueda posarse sobre la hoja, ya que es deslizado hasta el fondo del plato por el exceso de agua. Es elemental secar la lechuga.
@@ -40,20 +39,22 @@ Ensalada Mixta: Lechuga francesa, tomate y cebolla. No es una tarea difícil, pe
 
 La situación empeora. La camarera cometió el acierto, que muchas veces no ocurre, de retirar los condimentos al mismo tiempo que los platos después de la ensalada. Llegaron las gambas al ajillo y, sin decir nada, miré el plato sin salir del asombro. No lo podía creer:
 
-![](/assets/images/cava-paquitos.jpg)
-_La espectacular cava de Paquito_
+![](/assets/images/gambas-crema.jpg)
+_"Gambas al Ajillo servidas en Stella Maris"_
 
 Pocos platos en la historia de la gastronomía española, más precisamente madrileña, son tan tradicionales y clásicos como las gambas al ajillo. Nunca, bajo ningún concepto ni innovación vanguardista del chef, se le puede poner CREMA a un plato nombrado en la carta como "Gambas al Ajillo". Este es un término inviolable, un concepto global que se entiende en todos los rincones del mundo y genera cierta expectativa ni bien uno solicita este plato.
 Para que me comprendan, esperaba recibir algo similar a esto:
 
-![](/assets/images/croquetas-jyq.jpg)
+![](/assets/images/gambas.png)
 _"Gambas, ajo, perejil, pimentón dulce, aceite de oliva virgen extra, sal y algún picante arriba (opcional)."_
 
-Yo puedo entender la lógica detrás de esta atrocidad: buscan que la salsa, que debería ser un deleite de aceite para disfrutar solo, sea acompañada con pan y no sea necesario colocar tantas gambas en el plato. Bueno, error, y aquí viene mi enojo. Si esta fuera la brillante idea comercial, se procedería colocando en la carta "Gambas Stella Maris" y describiendo el plato que van a servir. Utilizar "Gambas al Ajillo" para esto es una deshonestidad, porque lo lógico sería servir el plato como corresponde por el valor que corresponda y, en todo caso, las "Gambas Stella Maris" a un precio inferior para que "vendan más".
+Yo puedo entender la lógica detrás de esta atrocidad: buscan que la salsa, que debería ser un deleite únicamente de aceite para disfrutar solo, sea acompañada con pan y no sea necesario colocar tantas gambas en el plato. Bueno, error, y aquí viene mi enojo. Si esta fuera la brillante idea comercial, se procedería colocando en la carta "Gambas Stella Maris" y describiendo el plato que van a servir. Utilizar "Gambas al Ajillo" para esto es una deshonestidad, porque lo lógico sería servir el plato como corresponde por el valor que corresponda y, en todo caso, las "Gambas Stella Maris" a un precio inferior para que "vendan más".
 
 Las gambas se notaban de muy buena calidad, y el sabor, una vez eliminada la salsa de crema, también era bueno.
 
-![](/assets/images/sifon-paquitos.jpg)
-_Los simpáticos sifoncitos de soda_
+![](/assets/images/gamba.jpg)
+_Gambas de buen tamaño y calidad_
 
 La moza no me preguntó cómo estuvo todo, y creo que se lo hubiera mencionado después de pagar, solo para evitar que cometan estos errores en la inminente temporada. Es política de este espacio no realizar quejas en el lugar ni recibir ningún patrocinio de los locales gastronómicos visitados antes, durante y después de consumir en los mismos.
+
+Es más que evidente que no fue una experiencia de mi agrado y no califica para ser recomendado por el momento.
