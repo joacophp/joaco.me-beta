@@ -37,7 +37,7 @@ Ensalada Mixta: Lechuga francesa, tomate y cebolla. No es una tarea difícil, pe
 * **_3)_** Siempre debe retirarse el pedúnculo del tomate (parte que conecta la planta con su fruto), removiéndolo en su totalidad. Dejarlo es un error no solo estético, sino que la parte aledaña a este es mucho más dura y carece del sabor característico de la fruta.
 * **_4)_** Como único punto positivo, debo aclarar que la lechuga estaba muy fresca y que el aceite de oliva era de buena calidad.
 
-La situación empeora. La camarera cometió el acierto, que muchas veces no ocurre, de retirar los condimentos al mismo tiempo que el plato de ensalada. Llegaron las gambas al ajillo y, sin decir nada, miré el plato quedando atónito. No lo podía creer:
+La situación empeora. La moza cometió el acierto, que muchas veces no ocurre, de retirar los condimentos al mismo tiempo que el plato de ensalada. Llegaron las gambas al ajillo y, sin decir nada, miré el plato quedando atónito. No lo podía creer:
 
 ![](/assets/images/gambas-crema.jpg)
 _"Gambas al Ajillo servidas en Stella Maris"_
