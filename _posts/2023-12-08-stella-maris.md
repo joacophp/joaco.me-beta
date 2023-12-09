@@ -6,7 +6,7 @@ categories:
 - España
 - Tapas
 
-title: 'Paquito: Nos sobran los motivos para siempre querer volver'
+title: 'Stella Maris: Gambas al Ajillo'
 author: sal
 image: "/assets/images/fachada-paquitos.jpg"
 tags:
@@ -38,13 +38,16 @@ Ensalada Mixta: Lechuga francesa, tomate y cebolla. No es una tarea difícil, pe
 * **_3)_** Siempre debe retirarse el pedúnculo (parte que conecta la planta con su fruto), removiéndolo en su totalidad. Dejarlo es un error no solo estético, sino que la parte aledaña a este es mucho más dura y carece del sabor característico de la fruta.
 * **_4)_** Como único punto positivo, debo aclarar que la lechuga estaba muy fresca y que el aceite de oliva era de buena calidad.
 
+La situación empeora. La camarera cometió el acierto, que muchas veces no ocurre, de retirar los condimentos al mismo tiempo que los platos después de la ensalada. Llegaron las gambas al ajillo y, sin decir nada, miré el plato sin salir del asombro. No lo podía creer:
+
 ![](/assets/images/cava-paquitos.jpg)
 _La espectacular cava de Paquito_
 
-
+Pocos platos en la historia de la gastronomía española, más precisamente madrileña, son tan tradicionales y clásicos como las gambas al ajillo. Nunca, bajo ningún concepto ni innovación vanguardista del chef, se le puede poner CREMA a un plato nombrado en la carta como "Gambas al Ajillo". Este es un término inviolable, un concepto global que se entiende en todos los rincones del mundo y genera cierta expectativa ni bien uno solicita este plato.
+Para que me comprendan, esperaba recibir algo similar a esto:
 
 ![](/assets/images/croquetas-jyq.jpg)
-_Croquetas de Jamón y Queso_
+_"Gambas, ajo, perejil, pimentón dulce, aceite de oliva virgen extra, sal y algún picante arriba (opcional)."_
 
 Toda la propuesta gastronómica se distingue por su excepcionalidad, ofreciendo una calidad que se alinea perfectamente con unos precios sumamente razonables. La variedad en la oferta de vinos, la clásica jarra pingüino, los tintos de verano espectaculares y los encantadores sifoncitos de soda, complementan de manera magistral la experiencia culinaria. Como mencioné al principio, si estaban anticipando una crítica negativa, les aseguro que Paquito no será el caso.
 
