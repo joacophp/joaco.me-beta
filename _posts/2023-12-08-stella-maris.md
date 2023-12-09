@@ -49,9 +49,11 @@ Para que me comprendan, esperaba recibir algo similar a esto:
 ![](/assets/images/croquetas-jyq.jpg)
 _"Gambas, ajo, perejil, pimentón dulce, aceite de oliva virgen extra, sal y algún picante arriba (opcional)."_
 
-Toda la propuesta gastronómica se distingue por su excepcionalidad, ofreciendo una calidad que se alinea perfectamente con unos precios sumamente razonables. La variedad en la oferta de vinos, la clásica jarra pingüino, los tintos de verano espectaculares y los encantadores sifoncitos de soda, complementan de manera magistral la experiencia culinaria. Como mencioné al principio, si estaban anticipando una crítica negativa, les aseguro que Paquito no será el caso.
+Yo puedo entender la lógica detrás de esta atrocidad: buscan que la salsa, que debería ser un deleite de aceite para disfrutar solo, sea acompañada con pan y no sea necesario colocar tantas gambas en el plato. Bueno, error, y aquí viene mi enojo. Si esta fuera la brillante idea comercial, se procedería colocando en la carta "Gambas Stella Maris" y describiendo el plato que van a servir. Utilizar "Gambas al Ajillo" para esto es una deshonestidad, porque lo lógico sería servir el plato como corresponde por el valor que corresponda y, en todo caso, las "Gambas Stella Maris" a un precio inferior para que "vendan más".
+
+Las gambas se notaban de muy buena calidad, y el sabor, una vez eliminada la salsa de crema, también era bueno.
 
 ![](/assets/images/sifon-paquitos.jpg)
 _Los simpáticos sifoncitos de soda_
 
-Paquito es un lugar para siempre volver, donde siempre nos sobran los motivos como decía el profeta del vicio, Joaquín Sabina.
+La moza no me preguntó cómo estuvo todo, y creo que se lo hubiera mencionado después de pagar, solo para evitar que cometan estos errores en la inminente temporada. Es política de este espacio no realizar quejas en el lugar ni recibir ningún patrocinio de los locales gastronómicos visitados antes, durante y después de consumir en los mismos.
