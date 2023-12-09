@@ -33,7 +33,7 @@ _Ensalada Mixta_
 
 Ensalada Mixta: Lechuga francesa, tomate y cebolla. No es una tarea difícil, pero requiere ciertos cuidados que en Stella Maris no tuvieron:
 * **_1)_** Como regla general, la lechuga tiene que estar fresca, pero además, ¡SECA! Servir la lechuga empapada hace que, al momento de condimentar con aceite de oliva, este no pueda posarse sobre la hoja, ya que es deslizado hasta el fondo del plato por el exceso de agua. Es elemental secar la lechuga.
-* **_2)_** Las ensaladas se sirven con sus cubiertos correspondientes, y en caso de que este no se cuente con estos, se utiliza doble cuchara. Una sola cuchara no tiene ningún sentido.
+* **_2)_** Las ensaladas se sirven con sus cubiertos correspondientes, y en caso de que no se cuente con estos, se utiliza doble cuchara. Una sola cuchara no tiene ningún sentido.
 * **_3)_** Siempre debe retirarse el pedúnculo del tomate (parte que conecta la planta con su fruto), removiéndolo en su totalidad. Dejarlo es un error no solo estético, sino que la parte aledaña a este es mucho más dura y carece del sabor característico de la fruta.
 * **_4)_** Como único punto positivo, debo aclarar que la lechuga estaba muy fresca y que el aceite de oliva era de buena calidad.
 
