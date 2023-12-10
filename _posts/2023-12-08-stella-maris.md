@@ -40,14 +40,16 @@ Ensalada Mixta: Lechuga francesa, tomate y cebolla. No es una tarea difícil, pe
 La situación empeora. La moza cometió el acierto, que muchas veces no ocurre, de retirar los condimentos al mismo tiempo que el plato de ensalada. Llegaron las gambas al ajillo y, sin decir nada, miré el plato quedando atónito. No lo podía creer:
 
 ![](/assets/images/gambas-crema.jpg)
-_"Gambas al Ajillo servidas en Stella Maris"_
+
+_"Gambas al Ajillo" servidas en Stella Maris_
 
 Pocos platos en la historia de la gastronomía española, más precisamente madrileña, son tan tradicionales y clásicos como las gambas al ajillo. Nunca, bajo ningún concepto ni innovación vanguardista del chef, se le puede poner CREMA a un plato nombrado en la carta como "Gambas al Ajillo". Este es un término inviolable, un concepto global que se entiende en todos los rincones del mundo y genera cierta expectativa ni bien uno solicita este plato.
 
 Para que me comprendan, esperaba recibir algo similar a esto:
 
 ![](/assets/images/gambas.png)
-_"Gambas, ajo, perejil, pimentón dulce, aceite de oliva virgen extra, sal y algún picante arriba (opcional)."_
+
+_Gambas, ajo, perejil, pimentón dulce, aceite de oliva virgen extra, sal y algún picante arriba (opcional)._
 
 Yo puedo entender la lógica detrás de esta atrocidad: buscan que la salsa, que debería ser un deleite únicamente de aceite para disfrutar solo, sea acompañada con pan y no sea necesario colocar tantas gambas en el plato. Bueno, error, y aquí viene mi enojo. Si esta fuera la brillante idea comercial, se procedería colocando en la carta "Gambas Stella Maris" y describiendo el plato que van a servir. Utilizar "Gambas al Ajillo" para esto es una deshonestidad, porque lo lógico sería servir el plato como corresponde por el valor que corresponda y, en todo caso, las "Gambas Stella Maris" a un precio inferior para que "vendan más".
 
