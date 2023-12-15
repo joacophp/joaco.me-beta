@@ -13,7 +13,7 @@ tags:
 
 ---
 
-La calle Thames, una de las arterias principales del barrio Palermo, tiene dos soberanos indiscutibles: Germán Sitz y Pedro Peña, artífices de al menos cinco restaurantes que se alinean a lo largo de esta calle, incluyendo al ya previamente destacado "Paquito" en estas columnas. Hoy, dirigiremos nuestra atención hacia su joya gastronómica, recientemente honrada en la guía Michelin y distinguida como uno de los 50 mejores restaurants de Latinoamérica.
+La calle Thames, una de las arterias principales del barrio de Palermo, tiene dos soberanos indiscutibles: Germán Sitz y Pedro Peña, artífices de al menos cinco restaurants que se alinean a lo largo de esta calle, incluyendo al ya previamente destacado en estas columnas "Paquito". Hoy, dirigiremos nuestra atención hacia su joya gastronómica, recientemente nombrada en la guía Michelin y distinguida como uno de los 50 mejores restaurants de Latinoamérica.
 
 * **_Ubicación:_**  Thames 1810, CABA.
 * **_Origen:_** Parrilla, Asia.
