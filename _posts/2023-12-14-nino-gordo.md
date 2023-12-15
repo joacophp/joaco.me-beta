@@ -23,7 +23,7 @@ La calle Thames, una de las arterias principales del barrio de Palermo, tiene do
   
 ## Niño Gordo: Un Desafío a la Tradicional Parrilla Argentina
 
-El exitoso restaurant "Niño Gordo" tiene su origen en el viaje de Pedro Peña, uno de sus propietarios, al continente asiático. Alejándose de las propuestas convencionales como el sushi japonés o los clásicos woks asiáticos, Peña tuvo la audaz visión de fusionar la reconocida carne argentina con la parrilla asiática, un concepto poco explorado en el vibrante barrio porteño de Palermo.
+El exitoso restaurant "Niño Gordo" tiene su origen en el viaje de Pedro Peña, uno de sus propietarios, al continente asiático. Alejándose de las propuestas convencionales como el sushi japonés o los clásicos woks asiáticos, Peña tuvo la audaz visión de fusionar la reconocida carne argentina con la parrilla asiática, un concepto poco explorado en el vibrante barrio de Palermo.
 
 Mi primera incursión en este lugar fue gracias a la sugerencia de uno de mis profesores de diseño, quien resaltó la experiencia inmersiva que ofrece. Cada aspecto, meticulosamente planificado, convierte la experiencia de comer allí en un viaje instantáneo al continente asiático. Se percibe como una suerte de máquina teletransportadora, donde cada detalle está cuidadosamente sincronizado con la propuesta gastronómica.
 
