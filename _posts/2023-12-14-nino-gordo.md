@@ -21,7 +21,7 @@ La calle Thames, una de las arterias principales de Palermo, tiene dos soberanos
 * **_Establecimiento:_** ☆☆☆☆☆
 * **_Monto Cancelado:_** $14000 x persona aprox (U$14.14)
   
-## "Niño Gordo: Un Desafío a la Tradicional Parrilla Argentina"
+## Niño Gordo: Un Desafío a la Tradicional Parrilla Argentina
 
 El exitoso restaurante "Niño Gordo" tiene su origen en el viaje de Pedro Peña, uno de sus propietarios, al continente asiático. Alejándose de las propuestas convencionales del sushi japonés y los clásicos woks asiáticos, Peña tuvo la audaz visión de fusionar la reconocida carne argentina con la parrilla asiática, un concepto aún poco explorado en el vibrante barrio porteño de Palermo.
 
@@ -42,7 +42,7 @@ En la reciente serie "Nada", se destaca la gastronomía china que identifica tre
 
 Es fascinante notar que muchos de los platos en Niño Gordo, aunque no todos, se alinean con ese concepto del "bocado del corazón". Me esforzar en resaltar aquellos que considero imperdibles en este espectacular restaurante del barrio de Palermo.
 
-## Tataki.
+## Tataki
 
 El tataki es una técnica de cocina japonesa en la que se cocina rápidamente la superficie de un ingrediente, típicamente carne, pescado o mariscos, sellándolo en el exterior mientras se deja crudo o apenas cocido en el interior. Este método de preparación resalta los sabores naturales de los alimentos y proporciona una textura única.
 
@@ -57,7 +57,7 @@ En el caso de la yema de huevo, esta se somete previamente a un proceso de marin
 
 Si me permiten hacer una recomendación, les sugiero que disfruten de algunas láminas de carne de res por sí solas antes de romper la yema de huevo que reposa en la parte superior. Luego, con un poco más de la mitad del plato, mezclen todo: el huevo y el arroz crean una combinación perfecta para realzar el sabor de la carne de res. Este proceso añade una dimensión adicional a la experiencia culinaria, permitiendo que los sabores se fusionen de manera armoniosa.
 
-##  Kara Age.
+##  Kara Age
 
 ![](/assets/images/karaage.jpg)
 _"Kara Age en Niño Gordo"_
@@ -66,7 +66,7 @@ Esta una técnica culinaria japonesa en la que diversos ingredientes —comúnme
 
 La técnica de marinado en leche de soja que Niño Gordo emplea para su versión de pollo frito agrega una capa adicional de sabor y jugosidad al plato. El acompañamiento de papas noisette proporciona una textura suave y complementaria, mientras que la salsa verde añade un toque fresco que realza la experiencia gastronómica de este pollo frito realmente espectacular. La combinación de estos elementos ofrece una experiencia culinaria única y deliciosa.
 
-##  Katsu Sando.
+##  Katsu Sando
 
 ![](/assets/images/katsusando.jpg)
 _"Katsu Sando en Niño Gordo"_
