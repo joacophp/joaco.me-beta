@@ -51,36 +51,29 @@ _"Tataki en Niño Gordo"_
 
 En el caso de Niño Gordo, el tataki es siempre elaborado con carne de res, acompañado de arroz y una yema de huevo, enriquecido con hierbas que complementan este plato de manera magistral.
 
+En el tataki de res, el punto de la carne se mantiene en el rango jugoso, exponiéndola por menos de un minuto por lado, dependiendo de su tamaño. Contrario a lo que muchos puedan creer, esto no implica un riesgo para la salud. En la carne vacuna, los principales parásitos como el Toxoplasma gondii y bacterias como el E. coli se encuentran principalmente en las capas exteriores de los cortes. Sellando la carne y exponiéndola a temperaturas superiores a 70 grados centígrados es suficiente para eliminarlos, garantizando así su ingesta de forma segura.
 
+En el caso de la yema de huevo, esta se somete previamente a un proceso de marinado en salsa de soja durante varias horas, permitiendo que absorba nuevos sabores. Además, se expone a una temperatura de 74 grados centígrados, garantizando así su seguridad para el consumo. Este cuidadoso tratamiento no solo resalta los sabores, sino que también asegura una experiencia culinaria sin riesgos para la salud.
 
+Si me permiten hacer una recomendación, les sugiero que disfruten de algunas láminas de carne de res por sí solas antes de romper la yema de huevo que reposa en la parte superior. Luego, con un poco más de la mitad del plato, mezclen todo: el huevo y el arroz crean una combinación perfecta para realzar el sabor de la carne de res. Este proceso añade una dimensión adicional a la experiencia culinaria, permitiendo que los sabores se fusionen de manera armoniosa.
 
-
+##  Kara Age.
 
 ![](/assets/images/langostinos-fran.jpg)
-_"Lagostinos Fran"_
+_"Kara Age en Niño Gordo"_
 
-La atención, ágil desde el comienzo, destacó con la llegada de los "Langostinos Fran". En este primer plato, se aprecia la esencia de la cocina de producto de Rosat, donde la manipulación mínima permite que la calidad de la materia prima brille. Los langostinos, cortados en mariposa y en su punto perfecto de cocción, se potencian con toques cítricos y salados, exponiendo la excelencia de su tamaño y frescura.
+Esta una técnica culinaria japonesa en la que diversos ingredientes —comúnmente carne, y en especial la de pollo— se fríen en aceite. Se elabora marinando trozos pequeños del ingrediente en salsa de soja, ajo y jengibre, recubriéndolos ligeramente entonces con una mezcla condimentada de harina de trigo o fécula de patata y friéndolos ligeramente en aceite, de forma parecida a la tempura.
 
-![](/assets/images/parrillada-mixta.jpg)
+La técnica de marinado en leche de soja que Niño Gordo emplea para su versión de pollo frito agrega una capa adicional de sabor y jugosidad al plato. El acompañamiento de papas noisette proporciona una textura suave y complementaria, mientras que la salsa verde añade un toque fresco que realza la experiencia gastronómica de este pollo frito realmente espectacular. La combinación de estos elementos ofrece una experiencia culinaria única y deliciosa.
 
-_"Media Parrillada Mixta"_
+##  Katsu Sando.
 
-La reacción o efecto Maillard es termino que se utiliza para describir la reacciones químicas que ocurren al exponer juntos al calor a los aminoácidos/proteínas y los azucares. A unos 140 °C los alimentos proteicos (en este caso el Merluzon) empiezan a dorarse en la reacción de Maillard cambiando de color, textura y generando nuevos aromas. Entre los 140 y los 160°C los cambios no se detienen, es por esto que la piel del pescado se dora y tiene un olor característico. Pasado los 180°C comienza otra reacción, la pirólisis o combustion donde se destruyen los aromas y aparecen los sabores agrios y amargos.
+![](/assets/images/langostinos-fran.jpg)
+_"Katsu Sando en Niño Gordo"_
 
-Toda la parrillada en "Lo de Fran" estaba excelente, debo destacar los chipirones, que contaban con un gusto característico denotando su exposición a las brasas, una combinación dulce por la reacción mencionada y salada por la excelente sal marina que  utilizan.
+El Katsu Sando es un popular sándwich japonés que tiene como elemento principal una fina milanesa empanizada y frita, generalmente de cerdo (tonkatsu), aunque también puede ser de pollo (chicken katsu) o incluso de otros ingredientes. La milanesa se coloca entre dos rebanadas de pan de molde, y el sándwich se corta en porciones más pequeñas para su fácil manejo.
 
-La elección de la media parrillada mixta venia acompañada de un plato no especificado en la carta: dos tipos de puré y una selección de vegetales:
 
-![](/assets/images/acomp.jpg)
+El Katsu Sando es realmente otro de los platos imperdibles en Niño Gordo. Con tan solo un bocado, se experimenta ese concepto del "bocado del corazón". Su pan, perfectamente tostado en manteca, presenta una textura ultra esponjosa que sugiere la inclusión de leche en su preparación, otorgándole una consistencia que se asemeja a un flan modificado. Con sutiles notas de ajo, que en absoluto resultan invasivas, y una cuidada combinación de condimentos, el resultado es una singularidad que hace que cada bocado sea perfecto e irrepetible.
 
-_"Acompañamientos"_
-
-Los acompañamientos, aunque satisfactorios, no alcanzaron la sorpresa que lograron los platos principales. Los espárragos, recién hervidos, liberaban agua caliente al ser mordidos, mientras que los tomates cherry, posiblemente afectados por el calor del puré, se sirvieron calientes. 
-
-La natilla, el postre elegido dentro de las opciones del día, contaba con la correcta cantidad de yemas, por lo que tenía la textura apropiada. También estaba correctamente equilibrada la cantidad de azúcar y vainilla en su interior. Donde no me terminó de convencer fue en su característica capa de caramelo superior que, en este caso, y a mi juicio, fue expuesta en exceso al calor, por lo que llegó a carbonizar sus extremos.
-
-![](/assets/images/natilla.jpg)
-
-_"Natilla" ultra-clásico postre español_
-
-"Lo de Fran" es uno de esos lugares donde la propuesta gastronómica se alinea perfectamente con los platos que se sirven, y existe un equilibrio entre el precio y la calidad ofrecida que lo convierten en una opción obligada dentro de las distintas alternativas gastronómicas que ofrece la perla del atlántico.
+Es evidente que Niño Gordo va más allá de ser simplemente un espacio "aesthetic"; es un lugar donde cada plato alcanza un nivel excepcional. Quería resaltar especialmente aquellos que logran el efecto "Wogh", aquellos que me mantienen regresando una y otra vez sin cesar, convirtiendo al restaurante en un imán para turistas. Al entrar en Niño Gordo, se encuentra un lugar tan fotogénico que incluso sus baños son dignos de ser compartidos en Instagram. Sin embargo, afortunadamente, la propuesta gastronómica no solo está a la altura de la estética, sino que la supera. La calidad de la experiencia culinaria en Niño Gordo es tan destacada que, incluso si estuviera situado debajo de un puente en la ruta tres, seguiría yendo rutinariamente. Como mencioné antes, los bocados del corazón son difíciles de encontrar, y Niño Gordo los ofrece todas las noches en el corazón de Palermo.
