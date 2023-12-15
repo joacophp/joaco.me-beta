@@ -28,7 +28,7 @@ El exitoso restaurant "Niño Gordo" tiene su origen en el viaje de Pedro Peña, 
 Mi primera incursión en este lugar fue gracias a la sugerencia de uno de mis profesores de diseño, quien resaltó la experiencia inmersiva que ofrece. Cada aspecto, meticulosamente planificado, convierte la experiencia de comer allí en un viaje instantáneo al continente asiático. Se percibe como una suerte de máquina teletransportadora, donde cada detalle está cuidadosamente sincronizado con la propuesta gastronómica.
 
 ![](/assets/images/barraninogordo.jpg)
-_"Barra en Niño Gordo"_
+_Barra en Niño Gordo_
 
 Desde aquel instante, mi relación con Niño Gordo se transformó en una suerte de adicción, similar a la que experimenté con Paquito. La singularidad de sus creaciones provoca el mismo efecto que cuando uno anhela comer específicamente una BigMac; resulta imposible sustituir esa necesidad con otro plato.
 
@@ -47,7 +47,7 @@ Es fascinante notar que muchos de los platos en Niño Gordo, aunque no todos, se
 El tataki es una técnica de la cocina japonesa en la que se cocina rápidamente la superficie de un ingrediente, típicamente carne, pescado o mariscos, sellándolo en el exterior mientras se lo deja crudo o apenas cocido en su interior. Este método de preparación resalta los sabores naturales de los alimentos y proporciona una textura única.
 
 ![](/assets/images/tataki.jpg)
-_"Tataki en Niño Gordo"_
+_Tataki en Niño Gordo_
 
 En el caso de Niño Gordo, el tataki es siempre elaborado con carne de res, acompañado de arroz y una yema de huevo, enriquecido con hierbas y papitas que complementan este plato de manera magistral.
 
@@ -60,7 +60,7 @@ Si me permiten hacer una recomendación, les sugiero que disfruten de algunas l�
 ##  Kara Age
 
 ![](/assets/images/karaage.jpg)
-_"Kara Age en Niño Gordo"_
+_Kara Age en Niño Gordo_
 
 Esta una técnica culinaria japonesa en la que diversos ingredientes —comúnmente carne, y en especial la de pollo— se fríen en aceite. Se elabora marinando trozos pequeños del ingrediente en salsa de soja, ajo y jengibre, recubriéndolos ligeramente en una mezcla condimentada de harina de trigo o almidón de papa y friéndolos ligeramente en aceite, de forma parecida a un tempura.
 
@@ -69,7 +69,7 @@ La técnica de marinado en leche de soja que Niño Gordo emplea para su versión
 ##  Katsu Sando
 
 ![](/assets/images/katsusando.jpg)
-_"Katsu Sando en Niño Gordo"_
+_Katsu Sando en Niño Gordo_
 
 El Katsu Sando es un popular sándwich japonés que tiene como elemento principal una fina milanesa empanizada y frita, generalmente de cerdo (tonkatsu), aunque también puede ser de pollo (chicken katsu) o incluso de otros ingredientes. La milanesa se coloca entre dos rebanadas de pan de molde, y el sándwich se corta en porciones más pequeñas para su fácil manejo.
 
@@ -77,6 +77,6 @@ El Katsu Sando es un popular sándwich japonés que tiene como elemento principa
 El Katsu Sando es realmente otro de los platos imperdibles en Niño Gordo. Con tan solo un bocado, se experimenta ese concepto del "bocado del corazón". Su pan, perfectamente tostado en manteca, presenta una textura ultra esponjosa que sugiere la inclusión de leche en su preparación, otorgándole una consistencia que se asemeja a un flan modificado. Con sutiles notas de ajo, que en absoluto resultan invasivas, y una cuidada combinación de condimentos, el resultado es una singularidad que hace que cada bocado sea perfecto e irrepetible.
 
 ![](/assets/images/veredaninogordo.jpg)
-_"Mesas en la vereda de Niño Gordo"_
+_Mesas en la vereda de Niño Gordo_
 
 Es evidente que Niño Gordo va más allá de ser simplemente un espacio "aesthetic"; es un lugar donde cada plato alcanza un nivel excepcional. Quería resaltar especialmente aquellos que logran el efecto "Wogh", aquellos que me mantienen regresando una y otra vez sin cesar, convirtiendo al restaurante en un imán para turistas. Al entrar en Niño Gordo, se encuentra un lugar tan fotogénico que incluso sus baños son dignos de ser compartidos en Instagram. Sin embargo, afortunadamente, la propuesta gastronómica no solo está a la altura de la estética, sino que la supera. La calidad de la experiencia culinaria en Niño Gordo es tan destacada que, incluso si estuviera situado debajo de un puente en la ruta tres, seguiría yendo rutinariamente. Como mencioné antes, los bocados del corazón son difíciles de encontrar, y Niño Gordo los ofrece todas las noches en el corazón de Palermo.
