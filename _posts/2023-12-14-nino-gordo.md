@@ -5,7 +5,7 @@ categories:
 - Parrilla
 - Asiatica
 
-title: 'Niño Gordo: Sabores Inolvidables en un Rincón Gastronómico Único'
+title: 'Niño Gordo: Fusionando la Parrilla Asiática con la Reconocida Carne Argentina'
 author: sal
 image: "/assets/images/ninogordo.jpg"
 tags:
@@ -23,7 +23,7 @@ La calle Thames, una de las arterias principales del barrio Palermo, tiene dos s
   
 ## Niño Gordo: Un Desafío a la Tradicional Parrilla Argentina
 
-El exitoso restaurant "Niño Gordo" tiene su origen en el viaje de Pedro Peña, uno de sus propietarios, al continente asiático. Alejándose de las propuestas convencionales sushi japonés y los clásicos woks asiáticos, Peña tuvo la audaz visión de fusionar la reconocida carne argentina con la parrilla asiática, un concepto poco explorado en el vibrante barrio porteño de Palermo.
+El exitoso restaurant "Niño Gordo" tiene su origen en el viaje de Pedro Peña, uno de sus propietarios, al continente asiático. Alejándose de las propuestas convencionales como el sushi japonés o los clásicos woks asiáticos, Peña tuvo la audaz visión de fusionar la reconocida carne argentina con la parrilla asiática, un concepto poco explorado en el vibrante barrio porteño de Palermo.
 
 Mi primera incursión en este lugar fue gracias a la sugerencia de uno de mis profesores de diseño, quien resaltó la experiencia inmersiva que ofrece. Cada aspecto, meticulosamente planificado, convierte la experiencia de comer allí en un viaje instantáneo al continente asiático. Se percibe como una suerte de máquina teletransportadora, donde cada detalle está cuidadosamente sincronizado con la propuesta gastronómica.
 
