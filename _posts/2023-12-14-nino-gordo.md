@@ -5,7 +5,7 @@ categories:
 - Parrilla
 - Asiatica
 
-title: 'Niño Gordo: '
+title: 'Niño Gordo: Sabores Inolvidables en un Rincón Gastronómico Único de Palermo: '
 author: sal
 image: "/assets/images/ninogordo.jpg"
 tags:
@@ -19,9 +19,9 @@ La calle Thames, una de las arterias principales de Palermo, tiene dos soberanos
 * **_Origen:_** Parrilla, Asia.
 * **_Comida:_** ☆☆☆☆☆
 * **_Establecimiento:_** ☆☆☆☆☆
-* **_Monto Cancelado:_** $13000 (U$12.15)
+* **_Monto Cancelado:_** $14000 x persona aprox (U$14.14)
   
-## Sabores Auténticos: Descubriendo la Propuesta de Lo de Fran.
+## "Niño Gordo: Un Desafío a la Tradicional Parrilla Argentina"
 
 El exitoso restaurante "Niño Gordo" tiene su origen en el viaje de Pedro Peña, uno de sus propietarios, al continente asiático. Alejándose de las propuestas convencionales del sushi japonés y los clásicos woks asiáticos, Peña tuvo la audaz visión de fusionar la reconocida carne argentina con la parrilla asiática, un concepto aún poco explorado en el vibrante barrio porteño de Palermo.
 
