@@ -5,7 +5,7 @@ categories:
 - Parrilla
 - Asiatica
 
-title: 'Niño Gordo: Sabores Inolvidables en un Rincón Gastronómico Único de Palermo: '
+title: 'Niño Gordo: Sabores Inolvidables en un Rincón Gastronómico Único'
 author: sal
 image: "/assets/images/ninogordo.jpg"
 tags:
