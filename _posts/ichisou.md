@@ -1,0 +1,71 @@
+---
+layout: post
+categories:
+- Gastronomía
+- Japon
+
+
+title: 'Ichisou: Tres generaciones deslumbran con lo mejor de Japón al barrio de Congreso'
+author: sal
+image: "/assets/images/ichisou.jpg"
+tags:
+- featured
+
+---
+
+Escondido en el barrio de Congreso, visitamos Ichisou, un emblemático restaurante japonés a cargo de Alejandra Kano, nombrada oficialmente por el Ministerio de Agricultura, Silvicultura y Pesca de Japón como Embajadora de Buena Voluntad de la Gastronomía Japonesa.
+
+* **_Ubicación:_**  Venezuela 2145, CABA.
+* **_Origen:_** Japon, Asia.
+* **_Comida:_** ☆☆☆☆☆
+* **_Establecimiento:_** ☆☆☆☆☆
+* **_Monto Cancelado:_** $35000 x persona aprox (U$34)
+  
+## 日本料理 Ichisou: Definiendo la cocina porteña.
+
+Buenos Aires es una ciudad muy cosmopolita, que contrasta mucho con el interior de nuestro país. Esto ha generado que en los últimos 40 años surjan cientos de emprendimientos de comida no autóctona que han dado identidad a la gastronomía porteña. Muchos estarán pensando en las pastas, la pizza o las hamburguesas americanas y no, si bien es cierto que el origen de los platos recién mencionados es ajeno a esta ciudad, la gastronomía italiana y española se ve en cada rincón de Argentina y nuestros platos de bandera tienen poco y nada que ver con nuestra capital.
+
+La comida porteña, es para mí, por supuesto, el rejunte de todas las etnias que fueron llegando en estos años a nuestro país y se quedaron en Buenos Aires. La gastronomía porteña es para mí el barrio coreano en Flores, la comida peruana en el Abasto y la comida judía en Once.
+
+El preámbulo de nuestra Constitución dice claramente, 'para todos los hombres del mundo que quieran habitar el suelo argentino', y creo que la comida porteña es ese fragmento del preámbulo de la Carta Magna aplicado en la gastronomía. Por distintas cuestiones tan propias de Argentina como la yerba mate o las pasas de uva en las empanadas tucumanas, estas comidas exógenas a nuestras raíces predominantes no pudieron extenderse por todo el territorio nacional.
+
+¿Qué es la comida porteña? ¿Una pizza es comida porteña? Bueno, yo creo que sí, pero no cualquier pizza; la fugazzeta es comida porteña. ¿Una hamburguesa con queso cheddar, bacon, papas fritas y una cerveza IPA tirada es comida porteña? Por supuesto que NO. Es de vital importancia no atribuir un producto a una ubicación basándose únicamente en la abundancia de la oferta de este. La Coca-Cola se vende mucho en Mendoza y no por eso es mendocina.
+
+¿Qué determina qué es comida porteña y qué no? Varias cosas, entre ellas la creatividad y la utilización de recursos propios de Argentina para elaborar platos únicos, las costumbres, las comunidades que se acomodan a la identidad argentina fusionando sus platos.
+
+Ichisou es auténtica gastronomía japonesa traída a Argentina por una familia que lleva más de tres generaciones difundiendo todas sus cocinas. Al entrar al restaurante ubicado en la calle Venezuela del barrio de Congreso, se pueden ver las indicaciones en español y en japonés; esto es siempre una buena señal, sumado a pasar la segunda puerta y ver a Alejandra trabajando en la barra en cada uno de los platos.
+
+![](/assets/images/sopamiso.jpg)
+_Sopa de Miso_
+
+Como entradas, venía una sopa de miso bien lograda y un Aemono compuesto por vegetales verdes y cereales que daban un contraste crocante con los vegetales bien marinados.
+
+![](/assets/images/aemono.jpg)
+_Aemono_
+
+Probamos también la tabla de tempuras en un punto perfecto de fritura. No tengo mucho que agregar en este punto, vegetales y pescados frescos de la más alta calidad.
+
+![](/assets/images/tempuras.jpg)
+_Tempuras_
+
+Luego probamos el Misoshiru, que es otra sopa de miso, pero en este caso venían trozos grandes de tofu que complementaban muy bien después de su maridaje en soja.
+
+![](/assets/images/misoshiru.jpg)
+_Misoshiru_
+
+Por supuesto, también sirvieron el tradicional Yakitori de pollo acompañado con un salmón cocido dulce. Puede que haya sido por el resultado de la plancha o bien un maridaje previo, pero muy bien logrado igualmente.
+
+![](/assets/images/yakitori.jpg)
+_Yakitori_
+
+La tabla de sushi no se quedó atrás. Alejandra sabe fusionar perfectamente la pesca nacional con la comida japonesa, introduciendo en este caso el abadejo y el pez limón entre su espectacular calidad de salmón y pulpo.
+
+![](/assets/images/sushi.jpg)
+_Tabla de Sushi_
+
+En este punto, me quería detener. Esta fusión extraordinaria es la comida porteña: saber combinar las técnicas de gastronomía foráneas con los productos típicos de la República Argentina, con una calidad y técnica brillantes. Un medallón de carne, con queso cheddar ultra procesado, medio kilo de azúcar y medio kilo de sal no es la comida porteña. La comida porteña no tiene que ver con el origen sino con la fusión. Porque no invantamos la pizza pero nos sobraban cebollas y por eso creamos la fugazzeta.
+
+![](/assets/images/heladomatcha.jpg)
+_Helado de Matcha_
+
+Culminamos con dos cafés y este helado de matcha, completamente refrescante y en línea con todos los platos que probamos en Ichisou, un restaurante sin filas eternas ni mesas ocupadas todo el año. Un restaurante de una familia japonesa que hace lo imposible todas las noches por brindar una de las mejores cocinas del mundo a la capital de Argentina, el mismo esfuerzo que hacen las distintas comunidades que forman esta grandiosa y excepcional demografía y juntas construyen la mejor y más maravillosa gastronomía porteña.
