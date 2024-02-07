@@ -13,9 +13,10 @@ tags:
 
 ---
 
-En Buenos Aires existen menos de cinco pizzerías icónicas donde se sirve la mejor pizza de Buenos Aires, que al igual que cualquier otra cosa, los argentinos defendemos con clemencia y pasión como si se tratara de un equipo de fútbol.
 
-Nadie, a excepción de uno mismo, sabe dónde se sirve la mejor pizza de Buenos Aires si difiere de la creencia personal. No es una cuestión menor; hablamos de tradiciones familiares que defienden una pizzería por más de cincuenta años, sienten cierto placer cuando conocen el nombre de los empleados, que por supuesto trabajan en el mismo lugar hace por lo menos 15 años.
+En Buenos Aires existe una rivalidad entre tres o cuatro pizzerías por el título de quién sirve la mejor pizza de la ciudad, que al igual que cualquier otra cosa, los argentinos defendemos con clemencia y pasión como si se tratara de un partido de fútbol.
+
+Nadie, a excepción de uno mismo, sabe dónde se sirve la mejor pizza de Buenos Aires si difiere de su creencia personal. No es una cuestión menor; hablamos de tradiciones familiares donde se defiende una misma pizzería por más de cincuenta años.
 
 * **_Ubicación:_**  Talcahuano 937, CABA.
 * **_Origen:_** Buenos Aires, Argentina.
@@ -25,7 +26,7 @@ Nadie, a excepción de uno mismo, sabe dónde se sirve la mejor pizza de Buenos 
   
 ## Pizza Porteña: 
 
-En mi familia, la camiseta le pertenece a la icónica pizzería "El Cuartito". Podríamos discutir durante años por qué se sirve la mejor pizza de Buenos Aires allí. Aclaración no menor para los lectores del foro ajenos al concepto de Pizza Porteña: La pizza porteña, de masa gruesa y con abundante queso, es única. No es de extrañar que comer en una pizzería tradicional sea uno de los pasatiempos favoritos de muchos argentinos. La pizza napolitana en todo el planeta tierra se la conoce por su delgado piso y sus bordes aireados. Los argentinos, especialmente los porteños, tenemos cierto talento para redefinir los conceptos universales y crear productos propios, habiendo rebautizado este último producto como "la napolitana".
+En mi familia, la camiseta le pertenece a la icónica pizzería "El Cuartito". Podríamos discutir durante años por qué se sirve la mejor pizza de Buenos Aires allí. Aclaración no menor para los lectores del foro ajenos al concepto de "Pizza Porteña": La pizza porteña, de masa gruesa y con abundante queso, es única. No es de extrañar que comer en una pizzería tradicional sea uno de los pasatiempos favoritos de muchos argentinos. La pizza napolitana en todo el planeta tierra se la conoce por su delgado piso y sus bordes aireados. Los argentinos, especialmente los porteños, tenemos cierto talento para redefinir los conceptos universales y crear productos propios, habiendo rebautizado este último producto como "la napolitana".
 
 Si en Italia, España, Suiza o Japón una persona pide una pizza napolitana, probablemente reciba un producto similar a esto: 
 
