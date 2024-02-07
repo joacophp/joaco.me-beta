@@ -26,7 +26,7 @@ Nadie, a excepción de uno mismo, sabe dónde se sirve la mejor pizza de Buenos 
   
 ## Pizza Porteña: Defensa de la camiseta y una pasión por hacer lo que se nos ocurre
 
-En mi familia, la camiseta le pertenece a la icónica pizzería "El Cuartito". Podríamos discutir durante años por qué se sirve la mejor pizza de Buenos Aires allí. Aclaración no menor para los lectores del foro ajenos al concepto de "Pizza Porteña": La pizza porteña, de masa gruesa y con abundante queso, es única. No es de extrañar que comer en una pizzería tradicional sea uno de los pasatiempos favoritos de muchos argentinos. 
+En mi familia, la camiseta le pertenece a la icónica pizzería "El Cuartito". Podríamos discutir durante horas por qué se sirve la mejor pizza de Buenos Aires allí. Aclaración no menor para los lectores del foro ajenos al concepto de "Pizza Porteña": La pizza porteña, de masa gruesa y con abundante queso, es única. No es de extrañar que comer en una pizzería tradicional sea uno de los pasatiempos favoritos de muchos argentinos. 
 
 ![](/assets/images/el-cuartito-inside.jpg)
 _El cuartito esta plagado de simbología futbolera_
