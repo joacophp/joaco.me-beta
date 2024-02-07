@@ -5,7 +5,6 @@ categories:
 - Argentina
 - Buenos Aires
 
-
 title: 'El cuartito: Pizza Porteña, fútbol y mucho rock & roll'
 author: sal
 image: "/assets/images/el-cuartito.png"
@@ -31,10 +30,12 @@ En mi familia, la camiseta le pertenece a la icónica pizzería "El Cuartito". P
 Si en Italia, España, Suiza o Japón una persona pide una pizza napolitana, probablemente reciba un producto similar a esto: 
 
 ![](/assets/images/napolitana.png)
+_Pizza Napolitana tradicional: Piso muy finito con bordes anchos y muy aireados_
 
 En cambio, en cualquier pizzería porteña, en este caso mi querido Cuartito, si uno solicita este mismo producto recibiría lo siguiente:
 
 ![](/assets/images/napolitana-ec.png)
+_Pizza Napolitana en "El cuartito"_
 
 Destáquese la incorporación de aceitunas descarozadas de forma abundante y el grosor casi uniforme de la totalidad del producto. Una clara demostración de que los argentinos hacemos lo que queremos y es casi una sacada de pecho las raíces italianas. Nosotros nos atrevemos hasta a renombrar la pizza napolitana. Cualquier argentino diría: "Quien es campeón del mundo hace lo que quiere".
 
@@ -43,6 +44,7 @@ Un atributo indispensable de cualquier pizzería que pretenda cargar en su nombr
 Otro atributo indispensable es contar con un servilletero que contenga servilletas que no limpian en absoluto: 
 
 ![](/assets/images/servilletero.png)
+_Servilleteros indispensables en cualquier pizzeria de Buenos Aires_
 
 Son servilletas fabricadas con papel de seda; la gente las conoce como ‘las que no secan’ y su adopción se debe a su costo, que es realmente muy económico para estos locales gastronómicos, pero lo que pocos saben de este producto es que no son realmente para limpiarse las manos ni la boca, sino para sujetar la porción de pizza, doblando este papel en forma de V.
 
@@ -55,6 +57,7 @@ Inclínese primeramente por la Fugazzeta; es un producto de creación local y es
 "Mozo, buenas noches, una grande de {Fugazzeta/Fugazzeta Rellena} y para tomar {Bebida que seleccione del menú}". El mozo procederá a anotar y darse la vuelta. En el mejor de los casos puede que asienta con la cabeza. 
 
 ![](/assets/images/fugazzetarellena.png)
+_Fugazzetta rellena en "El cuartito"_
 
 Como último consejo para este viaje que le espera en conocer lo mejor de la pizza porteña, debo recomendarle algunos lugares:
 
