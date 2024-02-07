@@ -24,7 +24,7 @@ Nadie, a excepción de uno mismo, sabe dónde se sirve la mejor pizza de Buenos 
 * **_Establecimiento:_** ☆☆☆
 * **_Monto Cancelado:_** $8000 x persona aprox (U$7,50)
   
-## Pizza Porteña: 
+## Pizza Porteña: Defensa de la camiseta y una pasión por hacer lo que se nos ocurre
 
 En mi familia, la camiseta le pertenece a la icónica pizzería "El Cuartito". Podríamos discutir durante años por qué se sirve la mejor pizza de Buenos Aires allí. Aclaración no menor para los lectores del foro ajenos al concepto de "Pizza Porteña": La pizza porteña, de masa gruesa y con abundante queso, es única. No es de extrañar que comer en una pizzería tradicional sea uno de los pasatiempos favoritos de muchos argentinos. La pizza napolitana en todo el planeta tierra se la conoce por su delgado piso y sus bordes aireados. Los argentinos, especialmente los porteños, tenemos cierto talento para redefinir los conceptos universales y crear productos propios, habiendo rebautizado este último producto como "la napolitana".
 
