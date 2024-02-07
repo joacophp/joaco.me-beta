@@ -13,7 +13,7 @@ tags:
 
 ---
 
-En Buenos Aires existen menos de cinco pizzerías icónicas donde se sirve la mejor pizza de Buenos Aires, que al igual que cualquier otra cosa, los argentinos defendemos con clemencia como si se tratara de un equipo de fútbol.
+En Buenos Aires existen menos de cinco pizzerías icónicas donde se sirve la mejor pizza de Buenos Aires, que al igual que cualquier otra cosa, los argentinos defendemos con clemencia y pasión como si se tratara de un equipo de fútbol.
 
 Nadie, a excepción de uno mismo, sabe dónde se sirve la mejor pizza de Buenos Aires si difiere de la creencia personal. No es una cuestión menor; hablamos de tradiciones familiares que defienden una pizzería por más de cincuenta años, sienten cierto placer cuando conocen el nombre de los empleados, que por supuesto trabajan en el mismo lugar hace por lo menos 15 años.
 
