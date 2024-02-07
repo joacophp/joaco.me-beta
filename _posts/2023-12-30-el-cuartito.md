@@ -43,7 +43,7 @@ En cambio, en cualquier pizzería porteña, en este caso mi querido Cuartito, si
 ![](/assets/images/napolitana-ec.png)
 _Pizza Napolitana en "El cuartito"_
 
-Destáquese la incorporación de aceitunas descarozadas de forma abundante y el grosor casi uniforme de la totalidad del producto. Una clara demostración de que los argentinos hacemos lo que queremos y es casi una sacada de pecho las raíces italianas. Nosotros nos atrevemos hasta a renombrar la pizza napolitana. Cualquier argentino diría: "Quien es campeón del mundo hace lo que quiere".
+Destáquese la incorporación de aceitunas descarozadas de forma abundante y el grosor casi uniforme de la totalidad del producto. Una clara demostración de que los argentinos hacemos lo que queremos y es casi una sacada de pecho a nuestras raíces italianas. Nosotros nos atrevemos hasta a renombrar la pizza napolitana. Cualquier argentino diría: "Quien es campeón del mundo hace lo que quiere".
 
 Un atributo indispensable de cualquier pizzería que pretenda cargar en su nombre el título de "porteña" es tener un personal ultra capacitado que por algún motivo siempre, pero siempre, te trata como un pelotudo y está de mal humor con las personas que no conoce. ¡Ojo! Esto no es algo negativo, es una experiencia en sí misma; muchos pagamos para ser maltratados en estas pizzerías y no emitimos crítica alguna porque conocemos la respuesta: "Si no te gusta, anda a comer a otro lado, loco".
 
